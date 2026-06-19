@@ -1,0 +1,1218 @@
+1
+00:00:03,108 --> 00:00:08,780
+WELCOME TO HIKARI CITY!!
+1.2 MILES TO TOWN
+
+2
+00:00:16,622 --> 00:00:18,165
+[Tetsuo] So it's been three years.
+
+3
+00:00:18,999 --> 00:00:21,710
+Takao, are you sure you want to do this?
+
+4
+00:00:22,919 --> 00:00:23,920
+Yeah.
+
+5
+00:00:25,756 --> 00:00:28,091
+You don't need to, you know.
+
+6
+00:00:28,175 --> 00:00:30,635
+-We can still--
+-I'm all right.
+
+7
+00:00:32,346 --> 00:00:36,016
+At some point...
+I'd have to face it, anyway.
+
+8
+00:00:57,788 --> 00:00:59,790
+[♪ opening theme music playing]
+
+9
+00:01:55,512 --> 00:01:57,764
+THE FLOWERS OF EVIL
+
+10
+00:01:57,848 --> 00:01:59,975
+EPISODE 11
+
+11
+00:02:01,560 --> 00:02:03,520
+[Takao's cousin] Grandpa!
+
+12
+00:02:04,938 --> 00:02:07,858
+[sobbing loudly]
+
+13
+00:02:11,987 --> 00:02:13,363
+Your sister...
+
+14
+00:02:26,293 --> 00:02:29,045
+-[Tetsuo] Big Sis...
+-[Takao's cousin continues crying]
+
+15
+00:02:29,129 --> 00:02:31,965
+-[Shizue] Haruko...
+-[Haruko continues crying]
+
+16
+00:02:43,018 --> 00:02:45,187
+I really appreciate you coming.
+
+17
+00:02:45,270 --> 00:02:47,022
+We'll see you again tomorrow.
+
+18
+00:02:47,522 --> 00:02:49,733
+Thank you for taking care of things.
+
+19
+00:02:49,816 --> 00:02:51,985
+[Haruko] Do you have a place to stay?
+
+20
+00:02:52,068 --> 00:02:53,820
+[Tetsuo] Yeah. Don't worry about us.
+
+21
+00:02:57,699 --> 00:02:58,950
+[Takao's cousin] Taka-chan.
+
+22
+00:03:04,456 --> 00:03:05,707
+You know...
+
+23
+00:03:07,959 --> 00:03:10,128
+There's one thing I have to say to you.
+
+24
+00:03:14,049 --> 00:03:15,634
+It's your fault, Taka-chan.
+
+25
+00:03:18,136 --> 00:03:19,846
+No one said it to your face,
+
+26
+00:03:21,097 --> 00:03:24,309
+but we were all amazed
+you had the nerve to show your face.
+
+27
+00:03:24,810 --> 00:03:26,811
+[♪ somber music playing]
+
+28
+00:03:27,687 --> 00:03:30,440
+Do you have any idea
+how difficult you made our lives?
+
+29
+00:03:35,153 --> 00:03:37,447
+I bet you didn't get to see
+Grandpa at the end
+
+30
+00:03:38,532 --> 00:03:41,326
+because he rejected you, Taka-chan.
+
+31
+00:03:45,747 --> 00:03:47,290
+I'm sorry.
+
+32
+00:03:52,254 --> 00:03:53,672
+I sincerely apologize!
+
+33
+00:03:54,965 --> 00:03:56,508
+If you're actually sorry,
+
+34
+00:04:00,262 --> 00:04:02,764
+spend the rest of your life
+making things right.
+
+35
+00:04:14,901 --> 00:04:16,903
+[Takao] You're born in this town
+
+36
+00:04:17,988 --> 00:04:19,739
+and you die in this town.
+
+37
+00:04:19,823 --> 00:04:21,741
+We're sorry for your loss.
+STYLE
+::cue()
+
+38
+00:04:21,825 --> 00:04:23,994
+[Takao] That was supposed
+to be my life, too.
+
+39
+00:04:24,077 --> 00:04:25,203
+KASUGA FUNERAL
+
+40
+00:04:25,287 --> 00:04:27,038
+But I got out of this town
+
+41
+00:04:27,998 --> 00:04:29,875
+and continued to live on.
+
+42
+00:04:29,958 --> 00:04:31,376
+GUEST SIGN IN
+
+43
+00:04:31,459 --> 00:04:33,169
+Then, what is this town?
+
+44
+00:04:34,129 --> 00:04:35,547
+What does it mean to me?
+
+45
+00:04:35,630 --> 00:04:37,340
+MIZUKOSHI INC.
+NEIGHBORS
+
+46
+00:04:37,424 --> 00:04:39,134
+After what he did three years ago...
+
+47
+00:04:39,217 --> 00:04:40,802
+-I'm shocked they showed up.
+-Yeah.
+
+48
+00:04:42,846 --> 00:04:46,641
+-[male mourner] It is him.
+-My goodness. They've got some nerve, no?
+
+49
+00:04:46,725 --> 00:04:49,227
+After causing that much trouble...
+
+50
+00:04:51,521 --> 00:04:53,273
+[whispering continues indistinctly]
+
+51
+00:04:59,696 --> 00:05:01,531
+Takao, are you doing all right?
+
+52
+00:05:02,866 --> 00:05:03,867
+Yeah.
+
+53
+00:05:06,494 --> 00:05:07,621
+Dad,
+
+54
+00:05:08,830 --> 00:05:10,040
+Mom,
+
+55
+00:05:12,876 --> 00:05:14,294
+I'm sorry.
+
+56
+00:05:18,423 --> 00:05:19,633
+Thank you.
+
+57
+00:05:23,595 --> 00:05:24,888
+Takao...
+
+58
+00:05:30,143 --> 00:05:32,896
+We're very sorry for your loss.
+
+59
+00:05:38,485 --> 00:05:39,736
+It's been a while.
+
+60
+00:05:41,154 --> 00:05:42,697
+Kinoshita...
+
+61
+00:05:48,328 --> 00:05:49,788
+[indistinct chatter]
+
+62
+00:05:53,959 --> 00:05:55,085
+I'm sorry...
+
+63
+00:05:56,044 --> 00:05:57,295
+about back then.
+
+64
+00:05:59,506 --> 00:06:00,882
+[Ai] Right after,
+
+65
+00:06:01,466 --> 00:06:04,177
+Nanako moved away without even telling me.
+
+66
+00:06:06,471 --> 00:06:08,098
+I don't know her address.
+
+67
+00:06:11,768 --> 00:06:14,479
+I guess I could've
+tracked her down if I tried.
+
+68
+00:06:17,399 --> 00:06:18,525
+But, I just...
+
+69
+00:06:23,530 --> 00:06:25,281
+Have you seen her since then?
+
+70
+00:06:27,659 --> 00:06:28,660
+Yeah.
+
+71
+00:06:28,743 --> 00:06:30,996
+What, really? When? Where?
+
+72
+00:06:32,288 --> 00:06:34,791
+Last year, in Omiya.
+
+73
+00:06:36,042 --> 00:06:38,503
+-[♪ somber music playing]
+-She was with her boyfriend.
+
+74
+00:06:39,379 --> 00:06:41,673
+Apparently, she lives in Utsunomiya now.
+
+75
+00:06:42,966 --> 00:06:44,426
+Is she doing all right?
+
+76
+00:06:45,427 --> 00:06:46,678
+Yeah.
+
+77
+00:06:48,221 --> 00:06:50,724
+She said she's "happy and stuff."
+
+78
+00:06:52,142 --> 00:06:53,351
+Right.
+
+79
+00:06:57,105 --> 00:06:58,440
+[inhales]
+
+80
+00:07:01,025 --> 00:07:03,027
+I see... [whimpers]
+
+81
+00:07:07,782 --> 00:07:11,369
+Funny... I've just been left behind.
+
+82
+00:07:12,662 --> 00:07:14,914
+I drove you guys out of town.
+
+83
+00:07:17,625 --> 00:07:20,670
+And I couldn't stop Nanako
+from leaving, either.
+
+84
+00:07:22,130 --> 00:07:23,381
+Back then...
+
+85
+00:07:24,340 --> 00:07:27,010
+what should I have done?
+
+86
+00:07:27,886 --> 00:07:29,429
+I'm the only one
+
+87
+00:07:29,512 --> 00:07:32,015
+that's been trapped in this town.
+
+88
+00:07:32,098 --> 00:07:35,018
+Forever and ever... [sobbing]
+
+89
+00:07:36,060 --> 00:07:37,270
+I don't want that...
+
+90
+00:07:47,655 --> 00:07:49,115
+What about Nakamura?
+
+91
+00:07:52,327 --> 00:07:55,830
+What happened between you two after that?
+
+92
+00:08:00,168 --> 00:08:01,628
+I haven't seen her.
+
+93
+00:08:03,546 --> 00:08:06,216
+Not since the moment
+she pushed me off the stage.
+
+94
+00:08:07,425 --> 00:08:11,304
+I don't know... where she is now.
+
+95
+00:08:13,473 --> 00:08:14,849
+Whether she's alive,
+
+96
+00:08:17,060 --> 00:08:18,645
+or if she's dead.
+
+97
+00:08:22,482 --> 00:08:24,400
+Don't you want to see her again?
+
+98
+00:08:26,444 --> 00:08:28,988
+I hope I can see her again, someday.
+
+99
+00:08:30,156 --> 00:08:31,366
+[♪ music fades]
+
+100
+00:08:31,449 --> 00:08:32,492
+Do you want to know?
+
+101
+00:08:34,202 --> 00:08:36,037
+Do you want to know where she is now?
+
+102
+00:08:39,082 --> 00:08:40,083
+What?
+STYLE
+::cue()
+
+103
+00:08:42,126 --> 00:08:43,753
+-[Aya] You're lying.
+-[Kotegawa] It's crazy.
+
+104
+00:08:43,837 --> 00:08:46,339
+[Aya] You have to be lying.
+That can't be true.
+
+105
+00:08:48,591 --> 00:08:50,635
+Oh... Mornin'.
+
+106
+00:08:50,718 --> 00:08:51,719
+Morning.
+
+107
+00:08:52,303 --> 00:08:54,180
+How was Gunma?
+
+108
+00:08:54,806 --> 00:08:56,099
+Got any souvenirs for us?
+
+109
+00:08:56,182 --> 00:08:59,602
+Who comes back from a funeral
+with souvenirs, idiot?
+
+110
+00:09:00,395 --> 00:09:04,607
+You know, Tokiwa was feeling lonely
+with you absent for two days.
+
+111
+00:09:04,691 --> 00:09:06,985
+She wouldn't shut up about you.
+
+112
+00:09:07,068 --> 00:09:09,154
+Hey, that wasn't all I talked about!
+
+113
+00:09:09,237 --> 00:09:10,530
+[both laughing]
+
+114
+00:09:21,249 --> 00:09:23,042
+Hey, Kasuga?
+
+115
+00:09:23,126 --> 00:09:24,169
+Yeah?
+
+116
+00:09:26,045 --> 00:09:27,130
+If you're free today,
+
+117
+00:09:27,630 --> 00:09:30,633
+why don't you come over to my place?
+
+118
+00:09:44,063 --> 00:09:46,065
+-Sorry.
+-Hmm?
+
+119
+00:09:46,149 --> 00:09:48,693
+I should've told you my parents were out.
+
+120
+00:09:49,527 --> 00:09:51,529
+No, don't worry about it.
+
+121
+00:09:53,406 --> 00:09:54,824
+The thing is...
+
+122
+00:09:58,661 --> 00:09:59,746
+I've finished...
+
+123
+00:10:01,122 --> 00:10:02,415
+my novel.
+
+124
+00:10:03,082 --> 00:10:04,083
+What?
+
+125
+00:10:04,167 --> 00:10:05,793
+Seriously? When?
+
+126
+00:10:06,377 --> 00:10:07,587
+Last night.
+
+127
+00:10:23,436 --> 00:10:24,812
+Please read it.
+
+128
+00:10:29,567 --> 00:10:30,568
+Tokiwa...
+
+129
+00:10:31,903 --> 00:10:33,029
+Congratulations.
+
+130
+00:10:35,156 --> 00:10:36,157
+But...
+
+131
+00:10:38,284 --> 00:10:39,911
+I can't read it right now.
+
+132
+00:10:42,121 --> 00:10:43,206
+There's something...
+
+133
+00:10:45,083 --> 00:10:46,876
+I need to tell you.
+
+134
+00:10:56,844 --> 00:10:58,012
+You see,
+
+135
+00:10:59,889 --> 00:11:01,307
+when I was in junior high,
+
+136
+00:11:02,934 --> 00:11:05,270
+I made a contract with someone.
+
+137
+00:11:06,354 --> 00:11:07,981
+[♪ instrumental music playing]
+
+138
+00:11:17,407 --> 00:11:18,992
+[Takao] That town,
+
+139
+00:11:19,075 --> 00:11:21,202
+the town I was born and raised in,
+
+140
+00:11:21,786 --> 00:11:26,082
+is a depressing town
+surrounded by mountains.
+
+141
+00:11:28,584 --> 00:11:30,253
+In my second year of junior high,
+
+142
+00:11:32,005 --> 00:11:34,966
+I stole the gym clothes
+of the girl I had a crush on.
+
+143
+00:11:38,136 --> 00:11:39,929
+I didn't mean to, though.
+
+144
+00:11:41,139 --> 00:11:42,348
+I just...
+
+145
+00:11:42,432 --> 00:11:46,978
+found it on the classroom floor,
+and I took it home with me.
+
+146
+00:11:47,979 --> 00:11:51,983
+This classmate named Nakamura saw me...
+
+147
+00:11:52,567 --> 00:11:53,693
+SAEKI
+
+148
+00:11:53,776 --> 00:11:55,153
+...and I ended up
+
+149
+00:11:55,903 --> 00:11:58,865
+making a contract with Nakamura.
+
+150
+00:12:00,950 --> 00:12:02,410
+One day, the two of us
+
+151
+00:12:03,077 --> 00:12:05,246
+destroyed our classroom.
+
+152
+00:12:05,747 --> 00:12:08,291
+We snuck into the school at night,
+
+153
+00:12:08,374 --> 00:12:10,460
+used the calligraphy ink and paint,
+
+154
+00:12:10,543 --> 00:12:12,420
+and turned the place upside down,
+
+155
+00:12:12,503 --> 00:12:14,422
+changing the classroom
+
+156
+00:12:14,505 --> 00:12:17,342
+into a chaotic mess,
+like no one had ever seen before.
+
+157
+00:12:18,009 --> 00:12:19,552
+Then, during swimming class,
+
+158
+00:12:20,678 --> 00:12:22,889
+I snuck into the girls' changing room,
+
+159
+00:12:23,598 --> 00:12:26,642
+and I stole the panties
+of every girl in my class.
+
+160
+00:12:28,102 --> 00:12:30,313
+It's not like I wanted them or anything.
+
+161
+00:12:31,689 --> 00:12:32,982
+All I wanted was...
+
+162
+00:12:33,066 --> 00:12:34,859
+I wanted to make Nakamura...
+
+163
+00:12:37,236 --> 00:12:38,738
+I just wanted
+
+164
+00:12:39,572 --> 00:12:41,407
+to see Nakamura laugh.
+
+165
+00:12:43,117 --> 00:12:44,327
+But, after all,
+
+166
+00:12:46,204 --> 00:12:49,165
+I never succeeded
+in making her truly laugh.
+
+167
+00:12:51,959 --> 00:12:53,378
+In the end,
+
+168
+00:12:54,087 --> 00:12:55,588
+I decided
+
+169
+00:12:56,130 --> 00:12:58,091
+to leave this world with her.
+
+170
+00:13:00,802 --> 00:13:02,095
+But...
+
+171
+00:13:06,349 --> 00:13:08,518
+even that was beyond my reach.
+STYLE
+::cue()
+
+172
+00:13:18,945 --> 00:13:23,157
+That's the reason I moved here.
+
+173
+00:13:31,791 --> 00:13:33,126
+[♪ music fades]
+
+174
+00:13:36,129 --> 00:13:37,213
+Sorry.
+
+175
+00:13:38,214 --> 00:13:39,715
+You need to leave.
+
+176
+00:13:45,471 --> 00:13:47,223
+I have to think about this alone.
+
+177
+00:13:48,933 --> 00:13:50,059
+Please.
+
+178
+00:13:52,687 --> 00:13:53,813
+I can't leave.
+
+179
+00:13:53,896 --> 00:13:54,897
+Why?
+
+180
+00:13:55,439 --> 00:13:57,108
+You're done with your story, right?
+
+181
+00:14:01,195 --> 00:14:03,531
+[angrily] What do you want from me?
+
+182
+00:14:03,614 --> 00:14:05,616
+I don't want anything from you.
+
+183
+00:14:05,700 --> 00:14:07,994
+I just felt like I should tell you.
+
+184
+00:14:08,077 --> 00:14:09,871
+Don't you think you're being selfish?
+
+185
+00:14:10,872 --> 00:14:13,249
+All I asked was for you to read my novel.
+
+186
+00:14:14,083 --> 00:14:16,335
+Did you just want to get this
+off your chest?
+
+187
+00:14:16,419 --> 00:14:19,005
+-No, it's not like that.
+-What is it, then?
+
+188
+00:14:20,131 --> 00:14:21,257
+I...
+
+189
+00:14:22,592 --> 00:14:24,468
+I don't want to run from it anymore.
+
+190
+00:14:25,595 --> 00:14:28,472
+Honestly, I thought I'd keep it to myself.
+
+191
+00:14:28,556 --> 00:14:30,933
+That it'd be selfish
+to make you deal with this.
+
+192
+00:14:32,602 --> 00:14:33,603
+But...
+
+193
+00:14:34,103 --> 00:14:35,646
+[♪ somber music playing]
+
+194
+00:14:35,730 --> 00:14:37,648
+the past won't go away.
+
+195
+00:14:38,983 --> 00:14:40,318
+I realized
+
+196
+00:14:40,818 --> 00:14:43,362
+I still can't let go of Nakamura.
+
+197
+00:14:44,572 --> 00:14:46,574
+It's not about liking her or not.
+
+198
+00:14:47,909 --> 00:14:49,702
+I can't tell if I want to hold her
+
+199
+00:14:50,369 --> 00:14:52,121
+or be killed by her.
+
+200
+00:14:54,332 --> 00:14:55,499
+I just...
+
+201
+00:14:57,001 --> 00:14:59,378
+I just want to see Nakamura again.
+
+202
+00:15:02,173 --> 00:15:03,966
+So that I can find a life with you.
+
+203
+00:15:10,014 --> 00:15:13,267
+Nakamura's whereabouts are in this note.
+
+204
+00:15:14,227 --> 00:15:16,771
+I got it the other day
+from a classmate in Gunma.
+
+205
+00:15:18,940 --> 00:15:21,692
+After I see Nakamura one more time,
+
+206
+00:15:22,693 --> 00:15:24,695
+if you'd still forgive me...
+
+207
+00:15:26,822 --> 00:15:28,199
+then...
+
+208
+00:15:28,950 --> 00:15:31,077
+I'd like to read your novel.
+
+209
+00:15:36,457 --> 00:15:38,000
+The answer is no.
+
+210
+00:15:40,628 --> 00:15:42,213
+I can't let you read this.
+
+211
+00:15:45,383 --> 00:15:48,302
+This seems so silly now, all of a sudden.
+
+212
+00:16:02,900 --> 00:16:04,110
+Tokiwa!
+
+213
+00:16:05,361 --> 00:16:07,780
+-[sobbing, panting]
+-Wait!
+
+214
+00:16:08,656 --> 00:16:09,699
+Stop it!
+
+215
+00:16:14,245 --> 00:16:15,871
+[Takao grunting] Wait!
+
+216
+00:16:17,707 --> 00:16:19,250
+[Aya] Let go of me!
+
+217
+00:16:19,917 --> 00:16:21,252
+I said, let go!
+
+218
+00:16:21,335 --> 00:16:23,754
+[Takao] I won't let go of you, ever!
+
+219
+00:16:24,755 --> 00:16:25,923
+[Aya grunts]
+
+220
+00:16:27,216 --> 00:16:28,759
+[panting]
+
+221
+00:16:35,850 --> 00:16:36,851
+Then...
+
+222
+00:16:37,393 --> 00:16:38,894
+can you kiss me?
+
+223
+00:16:53,034 --> 00:16:55,286
+[♪ gentle music playing]
+
+224
+00:17:27,485 --> 00:17:28,778
+I'll go with you.
+
+225
+00:17:29,862 --> 00:17:30,946
+What?
+
+226
+00:17:32,198 --> 00:17:34,367
+I'll go with you to see Nakamura.
+
+227
+00:17:43,834 --> 00:17:45,002
+[♪ music fades]
+STYLE
+::cue()
+
+228
+00:18:04,230 --> 00:18:10,361
+NAKAMURA IS WITH HER MOTHER NOW,
+HELPING OUT AT HER DINER IN TOKAWA, CHIBA.
+
+229
+00:18:21,622 --> 00:18:28,587
+TOKAWA STATION
+
+230
+00:18:32,133 --> 00:18:33,426
+[sighs]
+
+231
+00:18:37,012 --> 00:18:38,139
+Let's go.
+
+232
+00:18:38,931 --> 00:18:39,932
+Okay.
+
+233
+00:18:43,894 --> 00:18:46,772
+[♪ melancholy music playing]
+
+234
+00:18:59,702 --> 00:19:00,911
+GUEST HOUSE CHONAN-SO
+
+235
+00:19:00,995 --> 00:19:02,163
+[Aya] Excuse me.
+
+236
+00:19:02,705 --> 00:19:03,789
+Yes?
+
+237
+00:19:03,873 --> 00:19:07,460
+Is there a diner around here?
+
+238
+00:19:07,960 --> 00:19:10,629
+Sure, there are a few.
+
+239
+00:19:10,713 --> 00:19:12,840
+One that's run by a mother and daughter?
+
+240
+00:19:12,923 --> 00:19:17,595
+Ah. You must be looking
+for the Mizukoshi's, then.
+
+241
+00:19:18,220 --> 00:19:19,263
+Mizukoshi Diner.
+
+242
+00:19:21,265 --> 00:19:22,808
+It's at the end of this road,
+
+243
+00:19:23,434 --> 00:19:25,060
+but they close at 3:00 p.m.
+
+244
+00:19:25,644 --> 00:19:27,146
+[Aya] I see.
+
+245
+00:19:27,229 --> 00:19:28,689
+Thank you very much.
+
+246
+00:19:35,571 --> 00:19:36,906
+Ah.
+
+247
+00:19:38,115 --> 00:19:41,118
+MIZUKOSHI DINER
+
+248
+00:19:47,708 --> 00:19:50,669
+[♪ music fades]
+
+249
+00:19:50,753 --> 00:19:53,923
+OPENING HOURS 11:00 A.M. - 3:00 P.M.
+4:30 P.M. - 8:00 P.M.
+
+250
+00:20:01,931 --> 00:20:04,099
+Hey, you've got customers.
+
+251
+00:20:04,183 --> 00:20:05,184
+[owner] Coming!
+
+252
+00:20:06,435 --> 00:20:07,895
+Hello there, welcome.
+
+253
+00:20:08,395 --> 00:20:09,396
+A table for two?
+
+254
+00:20:10,773 --> 00:20:12,817
+-Yes, please.
+-[Shino] Right over here.
+
+255
+00:20:12,900 --> 00:20:14,985
+-[customer] Thanks for lunch!
+-[Shino] Thank you.
+
+256
+00:20:15,069 --> 00:20:18,072
+You must be busy
+without your girl helping out.
+
+257
+00:20:18,155 --> 00:20:20,616
+-[chuckles] Come again soon.
+-Will do.
+
+258
+00:20:26,288 --> 00:20:27,498
+Hmm?
+
+259
+00:20:27,581 --> 00:20:29,416
+[chuckles] Please sit.
+
+260
+00:20:36,590 --> 00:20:38,759
+Is that... her mom?
+
+261
+00:20:44,348 --> 00:20:46,892
+Have you decided on your order?
+
+262
+00:20:48,310 --> 00:20:50,229
+I'll have the fried mackerel set meal.
+
+263
+00:20:50,312 --> 00:20:51,313
+All right.
+
+264
+00:20:51,397 --> 00:20:52,398
+And you?
+
+265
+00:20:52,481 --> 00:20:55,067
+I'll have... the same thing.
+STYLE
+::cue()
+
+266
+00:20:55,150 --> 00:20:57,444
+Sure. I'll have those out in a bit.
+
+267
+00:21:09,415 --> 00:21:11,375
+[door slides open dramatically]
+
+268
+00:21:28,183 --> 00:21:29,935
+[♪ dramatic music playing]
+
+269
+00:21:41,113 --> 00:21:42,698
+[Takao] It smells like...
+
+270
+00:21:44,074 --> 00:21:45,200
+[Sawa] I'm back.
+
+271
+00:21:45,284 --> 00:21:46,410
+[Shino] Welcome back.
+
+272
+00:21:49,538 --> 00:21:51,540
+[Sawa] They only had
+small bottles of soy sauce.
+
+273
+00:21:51,624 --> 00:21:53,459
+[Shino] I see. Thanks for getting these.
+
+274
+00:21:54,293 --> 00:21:56,962
+-Take this to that table, would you?
+-[Sawa] Sure.
+
+275
+00:22:02,509 --> 00:22:05,804
+Here's the fried mackerel set meal.
+
+276
+00:22:07,514 --> 00:22:09,600
+I'll be back with another.
+
+277
+00:22:13,020 --> 00:22:14,188
+Hey!
+
+278
+00:22:14,271 --> 00:22:15,439
+[♪ music fades]
+
+279
+00:22:15,522 --> 00:22:16,982
+Nakamura...
+
+280
+00:22:18,442 --> 00:22:20,235
+Do you remember me?
+
+281
+00:22:22,071 --> 00:22:23,322
+It's me, Kasuga.
+
+282
+00:22:24,156 --> 00:22:25,616
+Takao Kasuga.
+
+283
+00:22:27,534 --> 00:22:28,994
+I came to see you.
+
+284
+00:22:29,078 --> 00:22:31,080
+[♪ gripping music playing]
+
+285
+00:22:48,722 --> 00:22:50,891
+TO BE CONTINUED
+
+286
+00:22:50,975 --> 00:22:52,977
+[♪ closing theme music playing]
+
+287
+00:23:48,032 --> 00:23:49,033
+ON THE NEXT EPISODE
+
+288
+00:23:49,116 --> 00:23:52,870
+[narrator] Kasuga and Nakamura
+are reunited.
+
+289
+00:23:52,953 --> 00:23:56,665
+Tokiwa quietly watches over them.
+
+290
+00:23:56,749 --> 00:24:01,879
+Next, on the final episode,
+see the other side of The Flowers of Evil.
+
+291
+00:24:01,962 --> 00:24:02,963
+Translated by Yuka Kristi
+
