@@ -1,0 +1,3513 @@
+1
+00:00:02,332 --> 00:00:05,753
+THE HUSBAND
+
+2
+00:00:10,007 --> 00:00:11,133
+THIS SERIES IS FICTITIOUS
+
+3
+00:00:11,216 --> 00:00:13,844
+CHILDREN WERE FILMED SAFELY
+GEN AI WAS USED IN SELECT SCENES
+
+4
+00:00:40,788 --> 00:00:41,789
+Are you okay?
+
+5
+00:00:43,290 --> 00:00:44,375
+Yeah, I'm fine.
+
+6
+00:00:44,458 --> 00:00:46,043
+[sighs]
+
+7
+00:00:48,670 --> 00:00:49,671
+[grunts]
+
+8
+00:00:55,260 --> 00:00:56,261
+We'd better hurry.
+
+9
+00:00:57,721 --> 00:00:59,181
+We're almost there. Come on!
+
+10
+00:01:03,352 --> 00:01:04,603
+[grunts]
+
+11
+00:01:14,738 --> 00:01:16,782
+[grunting, panting]
+
+12
+00:01:33,340 --> 00:01:34,341
+I made it.
+
+13
+00:01:35,008 --> 00:01:36,009
+Come on!
+
+14
+00:02:02,828 --> 00:02:03,871
+[grunts]
+
+15
+00:02:17,217 --> 00:02:18,469
+[gasping]
+
+16
+00:02:25,517 --> 00:02:26,518
+You all right?
+
+17
+00:02:27,311 --> 00:02:28,312
+Yeah, I'm good!
+
+18
+00:02:49,791 --> 00:02:50,792
+What do you think?
+
+19
+00:02:51,793 --> 00:02:54,046
+Mmm. It's nice.
+
+20
+00:02:57,174 --> 00:02:58,884
+I'm glad we came.
+
+21
+00:03:02,679 --> 00:03:04,014
+[sighs]
+
+22
+00:03:06,433 --> 00:03:07,559
+[chuckles]
+
+23
+00:03:21,156 --> 00:03:23,659
+[director] So far, a damaged spinal cord
+
+24
+00:03:23,742 --> 00:03:27,621
+has been deemed
+almost impossible to treat.
+
+25
+00:03:28,622 --> 00:03:33,252
+And Woori Together Medical Center
+was the first institution in the world
+
+26
+00:03:33,335 --> 00:03:36,463
+to attempt merging
+3D bio-printing technology
+
+27
+00:03:36,546 --> 00:03:42,302
+and stem cell therapy
+to restore a damaged spinal cord.
+
+28
+00:03:43,762 --> 00:03:47,683
+After three years of clinical trials
+
+29
+00:03:47,766 --> 00:03:52,646
+with 32 patients
+who had complete spinal cord injuries,
+
+30
+00:03:52,729 --> 00:03:57,568
+approximately 80% showed
+signs of sensory recovery,
+
+31
+00:03:57,651 --> 00:04:00,529
+and over 60% showed
+
+32
+00:04:00,612 --> 00:04:05,492
+limited but voluntary movement.
+
+33
+00:04:05,993 --> 00:04:07,661
+-[relative] Yes, keep going.
+-Just one more time.
+
+34
+00:04:07,744 --> 00:04:09,413
+You got to keep moving.
+
+35
+00:04:11,164 --> 00:04:13,000
+That's it. Yes, well done.
+
+36
+00:04:13,083 --> 00:04:16,253
+Here, a patient who was
+completely paralyzed for the past…
+
+37
+00:04:16,336 --> 00:04:19,214
+-[phone buzzes]
+-…ten years is moving his toes.
+STYLE
+::cue()
+
+38
+00:04:20,007 --> 00:04:23,510
+We have a long way to go
+until they can walk again.
+
+39
+00:04:24,344 --> 00:04:28,473
+However, we have seen
+undeniable potential.
+
+40
+00:04:29,516 --> 00:04:32,644
+And I'd like to thank Dr. Kang Taeju,
+
+41
+00:04:32,728 --> 00:04:36,732
+Director of Woori Together Medical Center,
+for showing us the way.
+
+42
+00:04:38,525 --> 00:04:41,069
+Dr. Kang, please share a few words.
+
+43
+00:04:45,157 --> 00:04:46,408
+I'm sorry, Dr. Ko.
+
+44
+00:04:46,491 --> 00:04:49,536
+I've been paged to the OR
+for an emergency.
+
+45
+00:04:49,620 --> 00:04:50,912
+Please excuse me.
+
+46
+00:04:51,538 --> 00:04:52,956
+I'm sorry.
+
+47
+00:04:53,040 --> 00:04:55,334
+[crowd murmuring]
+
+48
+00:05:03,675 --> 00:05:07,054
+Every second counts
+for an emergency patient.
+
+49
+00:05:07,137 --> 00:05:08,722
+We hope you understand.
+
+50
+00:05:10,098 --> 00:05:13,143
+But while Dr. Kang is away,
+
+51
+00:05:13,226 --> 00:05:18,398
+Dr. Ko will give you a more
+in-depth explanation of this project.
+
+52
+00:05:19,066 --> 00:05:20,901
+Please give him a big hand.
+
+53
+00:05:20,984 --> 00:05:22,653
+DOUBLE-CHECK CONSENT!
+SURGICAL CONSENT,
+
+54
+00:05:22,736 --> 00:05:25,530
+BLOOD TRANSFUSION CONSENT,
+AND PCA CONSENT
+
+55
+00:05:30,202 --> 00:05:31,203
+[Taeju] Freer.
+
+56
+00:05:43,048 --> 00:05:45,050
+WOORI TOGETHER MEDICAL CENTER
+
+57
+00:05:48,220 --> 00:05:50,472
+-[Dr. Ko] …we can.
+-[laughter]
+
+58
+00:05:50,555 --> 00:05:51,556
+Hello.
+
+59
+00:05:56,603 --> 00:05:58,438
+How are you, sir?
+
+60
+00:05:59,189 --> 00:06:00,357
+[patient] Good to see you.
+
+61
+00:06:01,274 --> 00:06:02,651
+I've just wrapped up the event.
+
+62
+00:06:02,734 --> 00:06:04,611
+Okay. Good work.
+
+63
+00:06:05,404 --> 00:06:08,573
+So, how are you feeling today?
+Are you doing all right?
+
+64
+00:06:08,657 --> 00:06:11,868
+Hmm. I'm not all right at all.
+
+65
+00:06:12,744 --> 00:06:14,871
+Oh… Is something bothering you?
+
+66
+00:06:14,955 --> 00:06:18,208
+I'm starting to see things.
+
+67
+00:06:18,291 --> 00:06:21,044
+[chuckles] He means he's hungry.
+
+68
+00:06:21,128 --> 00:06:22,295
+What?
+
+69
+00:06:22,379 --> 00:06:25,257
+This fasting thing is killing me.
+
+70
+00:06:26,716 --> 00:06:28,510
+[Dr. Ko] Just think of it as a long nap.
+
+71
+00:06:28,593 --> 00:06:30,720
+The surgery will be over in no time.
+
+72
+00:06:30,804 --> 00:06:31,930
+Isn't that right, Ms. Ko?
+
+73
+00:06:32,013 --> 00:06:33,181
+Of course.
+
+74
+00:06:33,265 --> 00:06:37,561
+Dr. Kang is number one
+in the field of spinal cord microsurgery.
+
+75
+00:06:37,644 --> 00:06:39,729
+[Taeju] We'll begin
+Chairman Kim Manseong's
+
+76
+00:06:39,813 --> 00:06:41,440
+spinal stenosis surgery in 30 minutes.
+
+77
+00:06:41,523 --> 00:06:42,691
+[staff] Yes, Doctor.
+
+78
+00:06:47,612 --> 00:06:50,198
+-[spouse] Please, I'm begging you!
+-[guard] Calm down, ma'am!
+
+79
+00:06:50,282 --> 00:06:51,867
+[spouse] Please help my husband!
+
+80
+00:06:51,950 --> 00:06:53,702
+-All right. Could you please wait…
+-Just…
+
+81
+00:06:53,785 --> 00:06:56,830
+At least let a doctor see him!
+
+82
+00:06:56,913 --> 00:06:58,415
+[guard] We still need you to calm down.
+
+83
+00:06:58,498 --> 00:06:59,749
+What's going on over there?
+
+84
+00:07:00,584 --> 00:07:02,544
+She's screaming
+that her husband needs surgery.
+
+85
+00:07:03,128 --> 00:07:04,963
+-Is it an emergency?
+-Yeah.
+
+86
+00:07:05,547 --> 00:07:08,925
+But all the surgeons on call
+are in surgery right now,
+
+87
+00:07:09,009 --> 00:07:12,387
+so we told her she has to wait,
+but it's no use.
+
+88
+00:07:12,846 --> 00:07:16,016
+She says she'll kill herself right here
+and now if he can't get surgery.
+
+89
+00:07:16,475 --> 00:07:17,476
+Geez.
+
+90
+00:07:21,396 --> 00:07:24,316
+Please help my husband!
+
+91
+00:07:24,399 --> 00:07:25,609
+Yes, we understand,
+
+92
+00:07:25,692 --> 00:07:27,652
+-but no one can operate on him right now.
+-[wailing]
+
+93
+00:07:27,736 --> 00:07:29,905
+So please stop blocking the way
+and wait outside.
+
+94
+00:07:29,988 --> 00:07:32,824
+Every hospital we've been to
+said the same thing!
+
+95
+00:07:32,908 --> 00:07:33,992
+[husband wailing]
+
+96
+00:07:34,075 --> 00:07:35,911
+If he doesn't get help, he's going to die!
+
+97
+00:07:35,994 --> 00:07:39,080
+This isn't going to change anything.
+Hey, get them out of here.
+
+98
+00:07:39,164 --> 00:07:41,333
+-No, please…
+-Come on.
+
+99
+00:07:41,416 --> 00:07:43,919
+-Let's go.
+-Please! No!
+
+100
+00:07:44,294 --> 00:07:45,837
+Sir!
+
+101
+00:07:46,588 --> 00:07:49,549
+-[husband continues wailing]
+-[wife] Please! Stop! Don't do this!
+
+102
+00:07:49,633 --> 00:07:50,634
+Hold on.
+
+103
+00:07:53,220 --> 00:07:54,221
+Dr. Kang.
+
+104
+00:07:57,057 --> 00:07:58,767
+What seems to be the problem?
+
+105
+00:07:59,309 --> 00:08:04,272
+His back, hips, and legs all hurt so bad
+that he can't even walk properly.
+
+106
+00:08:04,856 --> 00:08:08,026
+He can't go to the bathroom,
+and he can't tell if he needs to go.
+
+107
+00:08:09,110 --> 00:08:11,530
+Sir, we're going to try
+pointing your toes up, okay?
+
+108
+00:08:11,613 --> 00:08:14,741
+-[wailing]
+-[Taeju] You can't move it, can you?
+
+109
+00:08:16,993 --> 00:08:18,954
+[husband] I can't do it.
+
+110
+00:08:19,037 --> 00:08:20,247
+When did this start?
+
+111
+00:08:21,039 --> 00:08:24,084
+He was moving the table yesterday,
+and he suddenly said his back hurt.
+
+112
+00:08:24,167 --> 00:08:25,460
+He's been like this since.
+
+113
+00:08:25,544 --> 00:08:26,795
+Around what time?
+
+114
+00:08:26,878 --> 00:08:29,297
+It was right after breakfast, so 9 a.m.
+
+115
+00:08:29,381 --> 00:08:31,800
+[husband continues wailing]
+
+116
+00:08:36,096 --> 00:08:37,931
+-Wait a minute.
+-Ms. Ko.
+
+117
+00:08:38,640 --> 00:08:40,392
+-What's going on?
+-Well…
+
+118
+00:08:42,519 --> 00:08:43,770
+Did you get the MRI yet?
+
+119
+00:08:43,854 --> 00:08:46,106
+-[nurse] We should have it any minute now.
+-Do we have an OR?
+
+120
+00:08:46,189 --> 00:08:49,734
+OR Three. Anesthesia is almost here, too.
+
+121
+00:08:49,818 --> 00:08:51,278
+Dr. Kang.
+
+122
+00:08:52,863 --> 00:08:54,155
+We need to talk.
+
+123
+00:08:54,239 --> 00:08:55,323
+Not now, sorry.
+
+124
+00:08:55,407 --> 00:08:58,618
+You can't change the surgery schedule
+for a VIP patient as you wish.
+
+125
+00:08:59,369 --> 00:09:02,414
+This will put us in a tight spot.
+Did you even think about that?
+STYLE
+::cue()
+
+126
+00:09:05,292 --> 00:09:06,293
+I'm sorry.
+
+127
+00:09:06,877 --> 00:09:07,878
+You're sorry?
+
+128
+00:09:12,424 --> 00:09:13,758
+I'm sick of hearing that.
+
+129
+00:09:15,051 --> 00:09:16,761
+You got anything else?
+
+130
+00:09:28,106 --> 00:09:29,900
+He's got cauda equina.
+
+131
+00:09:30,650 --> 00:09:33,904
+If he doesn't get surgery now,
+he'll have to live with a disability.
+
+132
+00:09:33,987 --> 00:09:36,823
+CAUDA EQUINA SYNDROME: LEG PARALYSIS
+AND BLADDER/BOWL DYSFUNCTION
+
+133
+00:09:36,907 --> 00:09:39,576
+CAUSED BY COMPRESSION OF NERVES
+AT THE END OF THE SPINAL CORD
+
+134
+00:09:55,342 --> 00:09:57,135
+This hospital has a schedule to stick to.
+
+135
+00:09:59,095 --> 00:10:01,014
+You'll do Chairman Kim's surgery first.
+
+136
+00:10:01,598 --> 00:10:04,142
+Chairman Kim's is a simple procedure.
+
+137
+00:10:04,225 --> 00:10:07,062
+This man's out of time.
+He may never walk again.
+
+138
+00:10:07,520 --> 00:10:09,147
+Here we go again.
+
+139
+00:10:10,565 --> 00:10:13,068
+There's always something more important.
+
+140
+00:10:14,069 --> 00:10:15,987
+Something more urgent.
+
+141
+00:10:30,251 --> 00:10:31,962
+-[Taeju] Let's go.
+-Yes, Doctor.
+
+142
+00:10:59,698 --> 00:11:01,574
+Okay, let's verify the patient's identity.
+
+143
+00:11:01,658 --> 00:11:03,868
+Park Yeongjun, 42-year-old male.
+
+144
+00:11:03,952 --> 00:11:06,162
+It's an emergency decompression
+for cauda equina.
+
+145
+00:11:06,246 --> 00:11:07,998
+Going in for a laminectomy.
+
+146
+00:11:08,081 --> 00:11:09,499
+Anesthesia, any issues?
+
+147
+00:11:09,582 --> 00:11:12,002
+-All clear.
+-Okay, we're going up. Blade.
+
+148
+00:11:19,592 --> 00:11:21,636
+Dr. Kang. Stop this at once.
+
+149
+00:11:25,473 --> 00:11:28,685
+Dr. Ko, you can't be in here.
+
+150
+00:11:28,768 --> 00:11:32,564
+You know better than anyone that the OR
+is a restricted zone during a procedure.
+
+151
+00:11:33,064 --> 00:11:34,774
+You haven't even made an incision yet!
+
+152
+00:11:35,358 --> 00:11:38,194
+Put this on hold,
+and stick to the original schedule.
+
+153
+00:11:39,029 --> 00:11:41,740
+This patient is critical.
+It’s an emergency cauda equina case.
+
+154
+00:11:41,823 --> 00:11:44,784
+Don't you hear me?
+I don't give a damn what it is!
+
+155
+00:11:44,868 --> 00:11:47,454
+You're putting
+the entire hospital at risk!
+
+156
+00:11:48,371 --> 00:11:51,708
+Do you have any idea how much Chairman Kim
+has poured into this facility?
+
+157
+00:11:52,667 --> 00:11:55,920
+Stop this procedure
+and get Chairman Kim on the table first.
+
+158
+00:11:57,380 --> 00:11:58,381
+Now!
+
+159
+00:12:01,468 --> 00:12:03,636
+-Please get out.
+-What?
+
+160
+00:12:04,387 --> 00:12:05,805
+I said, please get out of here.
+
+161
+00:12:07,515 --> 00:12:08,516
+What did you say?
+
+162
+00:12:09,601 --> 00:12:11,603
+I said, get the hell out of here!
+
+163
+00:12:12,187 --> 00:12:13,938
+[phone buzzing]
+
+164
+00:12:14,939 --> 00:12:15,940
+Yes?
+
+165
+00:12:18,359 --> 00:12:19,736
+Wait, what?
+
+166
+00:12:23,782 --> 00:12:25,992
+[Taeju] Did you not hear me?
+Get out of here right now!
+
+167
+00:12:30,413 --> 00:12:32,749
+Please leave. Right now.
+
+168
+00:12:32,832 --> 00:12:35,085
+Dr. Kang, I think you're out of line.
+
+169
+00:12:35,794 --> 00:12:37,253
+This is my OR.
+
+170
+00:12:39,297 --> 00:12:40,423
+Please leave.
+
+171
+00:12:43,551 --> 00:12:46,054
+This is what I get
+for letting you into my family.
+
+172
+00:13:18,878 --> 00:13:21,089
+All right, let's resume.
+
+173
+00:13:21,589 --> 00:13:22,590
+Blade.
+
+174
+00:13:39,065 --> 00:13:43,987
+THE HUSBAND
+STYLE
+::cue()
+
+175
+00:13:48,074 --> 00:13:49,409
+[alarm chimes]
+
+176
+00:13:49,492 --> 00:13:50,994
+SATURDAY, FEBRUARY 7
+ALARM
+
+177
+00:13:53,913 --> 00:13:56,416
+[alarm continues chiming]
+
+178
+00:13:59,168 --> 00:14:00,712
+[alarm stops]
+
+179
+00:14:01,212 --> 00:14:02,547
+[door opens]
+
+180
+00:14:33,077 --> 00:14:35,038
+Do you want some coffee? I just made it.
+
+181
+00:14:37,498 --> 00:14:40,293
+[coffee machine beeps, whirs]
+
+182
+00:14:46,174 --> 00:14:49,302
+I had no choice yesterday.
+That man was running out of time.
+
+183
+00:14:51,763 --> 00:14:53,765
+Plus, Chairman Kim's surgery went well.
+
+184
+00:15:03,149 --> 00:15:05,944
+All's well that ends well, huh?
+Is that what you're saying?
+
+185
+00:15:07,195 --> 00:15:10,615
+All right, I'm sorry
+I didn't stick to the schedule.
+
+186
+00:15:10,698 --> 00:15:13,493
+But it was only delayed by an hour, so…
+
+187
+00:15:14,535 --> 00:15:15,536
+Only an hour?
+
+188
+00:15:16,746 --> 00:15:18,414
+He's not just another VIP.
+
+189
+00:15:18,498 --> 00:15:21,042
+He's the chairman
+of our biggest corporate sponsor.
+
+190
+00:15:21,125 --> 00:15:23,962
+Seyun, it was an emergency patient.
+
+191
+00:15:24,045 --> 00:15:25,463
+I had no choice.
+
+192
+00:15:26,255 --> 00:15:29,384
+Had we not operated on him,
+he would never have walked again.
+
+193
+00:15:29,467 --> 00:15:32,679
+Our hospital has
+a very specific set of rules.
+
+194
+00:15:33,638 --> 00:15:35,223
+And you completely ignored it.
+
+195
+00:15:35,306 --> 00:15:37,225
+Are those the hospital's rules,
+
+196
+00:15:38,309 --> 00:15:39,978
+or you and your dad's rules?
+
+197
+00:15:40,061 --> 00:15:41,396
+What?
+
+198
+00:15:42,146 --> 00:15:43,147
+Nothing.
+
+199
+00:15:43,231 --> 00:15:45,900
+I'll apologize to your dad
+and Chairman Kim personally.
+
+200
+00:15:46,484 --> 00:15:47,735
+Yeah, you do that.
+
+201
+00:15:52,198 --> 00:15:53,866
+[tires squealing]
+
+202
+00:16:07,088 --> 00:16:10,967
+Father, I was out of line yesterday.
+I'm really sorry.
+
+203
+00:16:12,427 --> 00:16:14,429
+That was really something, you know that?
+
+204
+00:16:15,096 --> 00:16:17,181
+"Get out of my OR"?
+
+205
+00:16:18,182 --> 00:16:20,351
+I get that we're both
+technically directors here.
+
+206
+00:16:20,435 --> 00:16:22,645
+WOORI TOGETHER MEDICAL CENTER
+DIRECTOR KO DONGCHAN
+
+207
+00:16:22,729 --> 00:16:24,230
+But you assume we're equals?
+
+208
+00:16:25,106 --> 00:16:26,649
+Is that what you think?
+
+209
+00:16:27,400 --> 00:16:29,902
+I built this hospital from the ground up,
+
+210
+00:16:29,986 --> 00:16:32,822
+just to be kicked out
+by my own son-in-law!
+
+211
+00:16:34,449 --> 00:16:38,870
+You see, with an emergency at hand,
+I wasn't thinking clearly.
+
+212
+00:16:38,953 --> 00:16:40,496
+I'm really sorry.
+
+213
+00:16:41,205 --> 00:16:43,708
+[scoffs, sighs]
+
+214
+00:16:44,917 --> 00:16:46,586
+And the press briefing?
+
+215
+00:16:47,128 --> 00:16:50,423
+Do you have any idea
+what they were all saying after you left?
+
+216
+00:16:51,466 --> 00:16:55,178
+Do you have any idea
+how Seyun had to clean up that mess?
+
+217
+00:16:55,261 --> 00:17:00,016
+And Chairman Kim was so furious
+that he refused our treatment.
+
+218
+00:17:01,059 --> 00:17:03,394
+So she barely managed
+to convince him into…
+
+219
+00:17:04,354 --> 00:17:05,355
+[sighs]
+
+220
+00:17:08,066 --> 00:17:11,361
+I promise it'll never happen again.
+
+221
+00:17:11,444 --> 00:17:12,445
+I'm sorry.
+
+222
+00:17:12,528 --> 00:17:13,863
+Is that right?
+
+223
+00:17:13,946 --> 00:17:16,074
+It must be nice being you.
+STYLE
+::cue()
+
+224
+00:17:16,783 --> 00:17:18,743
+You go around
+making a mess left and right,
+
+225
+00:17:18,826 --> 00:17:21,162
+and Seyun does all the cleanup.
+
+226
+00:17:21,829 --> 00:17:23,164
+[sighs]
+
+227
+00:17:25,708 --> 00:17:27,502
+I'm really sorry, Father.
+
+228
+00:17:28,086 --> 00:17:30,797
+Get out.
+I can't even stand seeing you right now!
+
+229
+00:17:46,646 --> 00:17:49,440
+Dr. Kang must've gotten
+an earful from Dr. Ko.
+
+230
+00:17:49,524 --> 00:17:51,859
+He looks totally deflated.
+
+231
+00:17:51,943 --> 00:17:53,820
+[nurse] What's with him these days?
+
+232
+00:17:53,903 --> 00:17:56,781
+He never used to butt heads
+with Dr. Ko like that.
+
+233
+00:17:56,864 --> 00:17:58,032
+Beats me.
+
+234
+00:17:58,116 --> 00:17:59,784
+It was just a matter of time.
+
+235
+00:17:59,867 --> 00:18:02,745
+Knowing him,
+I'd say this was bound to happen.
+
+236
+00:18:03,287 --> 00:18:06,290
+Then you should've done
+something beforehand, Dr. Choi.
+
+237
+00:18:06,374 --> 00:18:09,043
+-Yeah, exactly.
+-What was I supposed to do?
+
+238
+00:18:09,627 --> 00:18:11,838
+You think he'd listen to me?
+
+239
+00:18:13,756 --> 00:18:17,093
+We have to walk on eggshells
+when he gets like that.
+
+240
+00:18:17,176 --> 00:18:18,511
+[elevator dings]
+
+241
+00:18:25,393 --> 00:18:26,727
+[sighs softly]
+
+242
+00:18:27,311 --> 00:18:28,312
+[Dr. Choi] Dr. Cha.
+
+243
+00:18:31,691 --> 00:18:33,025
+Would you like some coffee?
+
+244
+00:18:35,319 --> 00:18:36,320
+Maybe later.
+
+245
+00:18:50,751 --> 00:18:52,462
+-[Taeju] Are you going somewhere?
+-Yeah.
+
+246
+00:18:53,212 --> 00:18:54,297
+For an off-site meeting.
+
+247
+00:18:56,382 --> 00:18:57,383
+Thank you.
+
+248
+00:18:58,384 --> 00:18:59,385
+For what?
+
+249
+00:19:00,636 --> 00:19:02,305
+Your dad told me.
+
+250
+00:19:03,598 --> 00:19:06,350
+About the press briefing
+and the situation with Chairman Kim.
+
+251
+00:19:07,351 --> 00:19:08,895
+You covered for me.
+
+252
+00:19:10,104 --> 00:19:12,315
+I was just doing my job
+as the board director.
+
+253
+00:19:13,733 --> 00:19:19,155
+Yeah, I know. It's just good to know
+you might still be on my side.
+
+254
+00:19:22,033 --> 00:19:23,743
+Don't think I did all that for you.
+
+255
+00:19:25,077 --> 00:19:27,371
+I can't let this hospital
+end up like us, can I?
+
+256
+00:19:27,455 --> 00:19:29,123
+[elevator dings]
+
+257
+00:19:55,816 --> 00:19:57,610
+[phone ringing]
+
+258
+00:20:07,745 --> 00:20:10,498
+[phone continues ringing]
+
+259
+00:20:13,918 --> 00:20:15,211
+[gasps]
+
+260
+00:20:15,294 --> 00:20:17,171
+Vitals are dropping.
+Give me an amp of epi.
+
+261
+00:20:17,255 --> 00:20:19,465
+The patient is flatlining.
+Keep compressing.
+
+262
+00:20:19,549 --> 00:20:21,425
+[Seyun] Please, no…
+
+263
+00:20:21,509 --> 00:20:22,843
+[doctor] Get the crash cart in here!
+
+264
+00:20:22,927 --> 00:20:25,096
+-[monitor flatlining]
+-[panting]
+
+265
+00:20:26,597 --> 00:20:28,057
+[sobbing]
+
+266
+00:20:34,063 --> 00:20:36,148
+[horn honking]
+STYLE
+::cue()
+
+267
+00:20:50,288 --> 00:20:51,330
+Hey, Dr. Kang…
+
+268
+00:20:53,291 --> 00:20:54,834
+[sighs]
+
+269
+00:21:08,139 --> 00:21:10,224
+STAIRWELL
+FIRE DOOR, KEEP CLOSED
+
+270
+00:21:10,308 --> 00:21:12,852
+DO NOT PLACE OBJECTS
+NEAR FIRE DOOR
+
+271
+00:21:22,153 --> 00:21:23,154
+I knew you'd be here.
+
+272
+00:21:24,405 --> 00:21:25,448
+Hey, what's up?
+
+273
+00:21:26,282 --> 00:21:27,575
+Do you want coffee?
+
+274
+00:21:27,658 --> 00:21:28,868
+No, I'm fine.
+
+275
+00:21:29,577 --> 00:21:31,912
+And you should lay off
+the instant coffee, Doc.
+
+276
+00:21:31,996 --> 00:21:33,414
+It's pure sugar, this thing.
+
+277
+00:21:35,082 --> 00:21:37,251
+Got yourself a cozy little cave here, huh?
+
+278
+00:21:44,008 --> 00:21:45,968
+What the… The lock still doesn't work.
+
+279
+00:21:47,094 --> 00:21:49,972
+I told them this is a major security risk.
+
+280
+00:21:50,556 --> 00:21:51,641
+Geez.
+
+281
+00:21:55,561 --> 00:21:56,896
+You know, I was surprised.
+
+282
+00:21:57,980 --> 00:21:59,565
+In the OR, I mean.
+
+283
+00:22:00,066 --> 00:22:04,403
+I've known you since med school,
+but I'd never seen that side of you.
+
+284
+00:22:06,989 --> 00:22:09,659
+Are you doing all right?
+I know it's been rough.
+
+285
+00:22:10,993 --> 00:22:14,121
+Father-in-law-slash-boss, wife-slash-boss…
+
+286
+00:22:14,205 --> 00:22:15,289
+Which is harder?
+
+287
+00:22:15,998 --> 00:22:17,124
+Both pretty hard.
+
+288
+00:22:17,208 --> 00:22:18,709
+[chuckles]
+
+289
+00:22:20,336 --> 00:22:22,630
+I take it things
+are still not so great at home?
+
+290
+00:22:22,713 --> 00:22:24,298
+[sighs]
+
+291
+00:22:26,175 --> 00:22:29,178
+How long will you keep this up for?
+The tension will make you both wither.
+
+292
+00:22:30,471 --> 00:22:31,764
+Tell me about it.
+
+293
+00:22:33,641 --> 00:22:35,393
+Try having a real conversation.
+
+294
+00:22:36,936 --> 00:22:39,522
+Okay, so how do you have this
+"real conversation"?
+
+295
+00:22:40,064 --> 00:22:41,691
+What do you mean how?
+
+296
+00:22:41,774 --> 00:22:44,026
+You just be honest with each other.
+
+297
+00:22:45,945 --> 00:22:47,905
+And what if that makes things worse?
+
+298
+00:22:48,280 --> 00:22:49,657
+What do you have to lose?
+
+299
+00:22:49,740 --> 00:22:51,075
+You're already at rock bottom.
+
+300
+00:22:53,119 --> 00:22:56,163
+Trust me,
+there are levels beneath rock bottom.
+
+301
+00:22:58,040 --> 00:22:59,792
+You still have to do something.
+
+302
+00:22:59,875 --> 00:23:01,877
+Because if you don't, your marriage…
+
+303
+00:23:03,003 --> 00:23:04,255
+It'll really be over.
+
+304
+00:23:15,141 --> 00:23:16,600
+[car beeps]
+
+305
+00:23:21,522 --> 00:23:22,523
+[Taeju] Hey, you're home.
+
+306
+00:23:28,279 --> 00:23:30,322
+I thought I'd make us dinner.
+
+307
+00:23:30,406 --> 00:23:31,574
+Let's eat together.
+
+308
+00:23:34,702 --> 00:23:36,871
+Remember that pajeon place
+at the foot of Bukhansan?
+
+309
+00:23:36,954 --> 00:23:38,247
+You used to love that place.
+
+310
+00:23:39,123 --> 00:23:41,792
+You sure had a big appetite
+for such a tiny girl.
+
+311
+00:23:42,501 --> 00:23:43,919
+I did my best,
+
+312
+00:23:45,171 --> 00:23:46,630
+but I don't know if it's as good.
+
+313
+00:23:49,425 --> 00:23:50,676
+I got some makgeolli too.
+
+314
+00:23:51,886 --> 00:23:53,262
+I know it's your favorite.
+
+315
+00:23:54,638 --> 00:23:55,848
+Have a seat.
+
+316
+00:23:58,017 --> 00:24:01,520
+Man, I don't know why makgeolli
+tasted so good back then.
+
+317
+00:24:02,730 --> 00:24:04,148
+I've already eaten.
+
+318
+00:24:05,316 --> 00:24:07,818
+Oh. Really?
+
+319
+00:24:07,902 --> 00:24:10,780
+Well, why don't
+we just have a drink, then?
+
+320
+00:24:11,822 --> 00:24:13,032
+I don't feel like drinking.
+
+321
+00:24:15,409 --> 00:24:16,911
+Wait, Seyun.
+
+322
+00:24:18,579 --> 00:24:20,456
+I made it just for you.
+
+323
+00:24:20,998 --> 00:24:22,416
+Just sit with me for a while.
+
+324
+00:24:23,125 --> 00:24:24,460
+I said I don't want to.
+
+325
+00:24:25,461 --> 00:24:28,714
+I'm just asking you to sit with me.
+Is that so hard?
+
+326
+00:24:34,678 --> 00:24:36,388
+[door closes]
+STYLE
+::cue()
+
+327
+00:24:58,160 --> 00:24:59,411
+[sighs]
+
+328
+00:25:06,919 --> 00:25:07,920
+[door opens]
+
+329
+00:25:10,422 --> 00:25:11,841
+Did you change your mind?
+
+330
+00:25:17,471 --> 00:25:18,764
+I'll pour you one.
+
+331
+00:25:18,848 --> 00:25:19,932
+It's fine. I got it.
+
+332
+00:25:20,015 --> 00:25:21,934
+I just want to do
+something for you for once.
+
+333
+00:25:22,017 --> 00:25:24,019
+-I said, it's fine.
+-Come on, just let me…
+
+334
+00:25:29,733 --> 00:25:31,527
+I said I'd do it myself!
+
+335
+00:25:33,279 --> 00:25:34,655
+I told you I'd do it.
+
+336
+00:25:34,738 --> 00:25:36,115
+What is wrong with…
+
+337
+00:25:46,333 --> 00:25:47,459
+I'm sorry.
+
+338
+00:25:51,839 --> 00:25:54,717
+But does this make you that mad?
+
+339
+00:25:55,217 --> 00:25:56,969
+This is why our marriage isn't working.
+
+340
+00:25:58,345 --> 00:26:01,056
+Even the smallest things turn into a mess
+when we're together.
+
+341
+00:26:02,600 --> 00:26:04,059
+I'll fix this up.
+
+342
+00:26:04,685 --> 00:26:05,895
+It's just like our marriage.
+
+343
+00:26:06,937 --> 00:26:08,564
+Shattered to pieces.
+
+344
+00:26:12,276 --> 00:26:15,446
+You'll fix it? What's broken is broken.
+
+345
+00:26:16,697 --> 00:26:19,199
+You can glue it together,
+but it'll never be whole again.
+
+346
+00:26:19,742 --> 00:26:21,410
+Are you really going to be like this?
+
+347
+00:26:21,744 --> 00:26:23,203
+You always do this.
+
+348
+00:26:23,704 --> 00:26:25,873
+It's always, "It's okay, we'll try again."
+
+349
+00:26:25,956 --> 00:26:27,416
+As if nothing ever happened.
+
+350
+00:26:29,001 --> 00:26:31,295
+What do you want from me?
+
+351
+00:26:32,922 --> 00:26:34,173
+What do you want me to do?
+
+352
+00:26:34,256 --> 00:26:35,674
+Tell me, I'm all ears.
+
+353
+00:26:36,884 --> 00:26:39,345
+Because I honestly don't know
+what more I can do.
+
+354
+00:26:39,845 --> 00:26:41,889
+So just keep on living
+like you always have.
+
+355
+00:26:42,890 --> 00:26:44,892
+That's the only thing you know how to do.
+
+356
+00:26:54,360 --> 00:26:56,362
+I'm going to fix it up, okay?
+
+357
+00:27:05,329 --> 00:27:06,747
+Just throw it away.
+
+358
+00:27:11,085 --> 00:27:12,086
+Seyun.
+
+359
+00:27:12,628 --> 00:27:13,629
+What?
+
+360
+00:27:18,092 --> 00:27:19,134
+Let's put an end to this.
+
+361
+00:27:20,010 --> 00:27:21,011
+What?
+
+362
+00:27:25,891 --> 00:27:26,892
+I want a divorce.
+
+363
+00:27:32,231 --> 00:27:33,857
+I'm not getting divorced.
+
+364
+00:27:34,316 --> 00:27:35,401
+What?
+
+365
+00:27:35,984 --> 00:27:37,486
+I'm not getting divorced.
+
+366
+00:27:37,569 --> 00:27:40,739
+You said no glue
+can put it together, just like us.
+
+367
+00:27:41,365 --> 00:27:43,617
+We're never going to be whole again.
+
+368
+00:27:44,660 --> 00:27:46,620
+So why don't you want to get divorced?
+
+369
+00:27:51,333 --> 00:27:52,626
+Because it's what you want.
+
+370
+00:27:54,169 --> 00:27:55,212
+[scoffs]
+
+371
+00:27:56,088 --> 00:27:57,756
+That's why you want to stay together?
+
+372
+00:27:58,424 --> 00:28:01,218
+I don't want to give you
+anything you want.
+
+373
+00:28:02,219 --> 00:28:04,596
+I've made myself clear.
+Let's get divorced.
+
+374
+00:28:07,808 --> 00:28:09,309
+Well, try if you can.
+
+375
+00:28:10,352 --> 00:28:12,688
+Guess you might get your wish
+if one of us dies.
+
+376
+00:28:16,525 --> 00:28:17,735
+[door closes]
+
+377
+00:28:43,135 --> 00:28:44,511
+[sighs]
+
+378
+00:28:50,642 --> 00:28:51,685
+CELEBRATING THE SUCCESS
+STYLE
+::cue()
+
+379
+00:28:51,769 --> 00:28:54,021
+OF ARTIFICIAL SPINAL CORD TRANSPLANT
+CLINICAL TRIAL
+
+380
+00:28:55,731 --> 00:28:57,983
+What? Divorce? Are you serious?
+
+381
+00:28:59,985 --> 00:29:00,986
+Yeah.
+
+382
+00:29:01,987 --> 00:29:04,198
+You sure you gave this enough thought?
+
+383
+00:29:05,532 --> 00:29:08,660
+Do you have any money saved up?
+Are you going to start your own clinic?
+
+384
+00:29:09,745 --> 00:29:10,788
+I don't know.
+
+385
+00:29:10,871 --> 00:29:12,122
+How much do you have?
+
+386
+00:29:14,291 --> 00:29:15,918
+Around 80 million won.
+
+387
+00:29:17,294 --> 00:29:19,213
+You can't even get
+an MRI scanner with that.
+
+388
+00:29:20,130 --> 00:29:22,424
+Maybe a used X-ray machine at best.
+
+389
+00:29:23,133 --> 00:29:24,802
+Then again, it's probably better
+
+390
+00:29:24,885 --> 00:29:27,471
+than being half a director
+under your father-in-law.
+
+391
+00:29:28,722 --> 00:29:30,390
+Why don't you go find a salaried gig?
+
+392
+00:29:30,474 --> 00:29:32,643
+You could rake in money off
+physical therapy
+
+393
+00:29:32,726 --> 00:29:34,895
+in a well-insured neighborhood.
+
+394
+00:29:35,771 --> 00:29:37,773
+Or give people Botox
+at a plastic surgery clinic.
+
+395
+00:29:40,734 --> 00:29:42,820
+[no audible dialogue]
+
+396
+00:29:42,903 --> 00:29:44,988
+I need to go talk to Dr. Ha over there.
+
+397
+00:29:45,072 --> 00:29:47,157
+-We'll talk later.
+-All right.
+
+398
+00:29:47,825 --> 00:29:48,909
+-See you.
+-Yeah.
+
+399
+00:30:02,881 --> 00:30:07,928
+Uh… We finally showed
+the world the fruit
+
+400
+00:30:08,512 --> 00:30:11,431
+of all efforts we put in
+throughout the past few years.
+
+401
+00:30:12,975 --> 00:30:19,273
+And I'd like to thank each and every one
+of you at Woori Together Medical Clinic.
+
+402
+00:30:19,356 --> 00:30:22,860
+Let us celebrate this moment with a toast.
+
+403
+00:30:28,615 --> 00:30:29,616
+Cheers!
+
+404
+00:30:29,700 --> 00:30:31,285
+-Cheers!
+-Cheers!
+
+405
+00:30:35,622 --> 00:30:37,165
+[doctor] Congratulations, Dr. Kang.
+
+406
+00:30:37,249 --> 00:30:38,959
+Incredible work, sir.
+
+407
+00:30:39,042 --> 00:30:40,168
+Thanks.
+
+408
+00:30:41,295 --> 00:30:42,546
+Hey, Taeju.
+
+409
+00:30:43,380 --> 00:30:44,423
+Hey.
+
+410
+00:30:47,301 --> 00:30:48,802
+Congratulations.
+
+411
+00:30:49,845 --> 00:30:50,846
+Thanks.
+
+412
+00:30:53,181 --> 00:30:54,850
+I know you worked really hard.
+
+413
+00:30:55,559 --> 00:30:58,020
+-I'm glad it worked out.
+-Yeah.
+
+414
+00:31:00,647 --> 00:31:01,940
+-Talk to you later.
+-Yeah.
+
+415
+00:31:09,531 --> 00:31:10,532
+Congratulations.
+
+416
+00:31:12,534 --> 00:31:15,829
+Your precious little project
+became a huge success.
+
+417
+00:31:19,041 --> 00:31:20,083
+This calls for a toast.
+
+418
+00:31:23,503 --> 00:31:24,504
+What is it?
+
+419
+00:31:25,964 --> 00:31:27,633
+You don't even want a toast with me?
+
+420
+00:31:32,596 --> 00:31:35,307
+You don't want a toast
+with a wife you want to divorce?
+
+421
+00:31:38,977 --> 00:31:40,437
+What are you doing?
+
+422
+00:31:40,520 --> 00:31:41,897
+This is not the place for this.
+
+423
+00:31:42,481 --> 00:31:44,191
+Was it supposed to be a secret?
+
+424
+00:31:47,361 --> 00:31:48,403
+I'm going to go, okay?
+
+425
+00:31:50,238 --> 00:31:51,490
+Another emergency?
+
+426
+00:31:56,536 --> 00:31:57,537
+Yeah.
+
+427
+00:31:58,497 --> 00:31:59,748
+You should go, then.
+
+428
+00:32:01,124 --> 00:32:02,376
+See you.
+
+429
+00:32:12,177 --> 00:32:14,596
+[sighs]
+
+430
+00:32:14,680 --> 00:32:15,681
+SEOKGI CHUEOTANG
+
+431
+00:32:15,764 --> 00:32:18,016
+-All right, here's your credit card.
+-[customer] Thank you.
+
+432
+00:32:18,100 --> 00:32:19,393
+-See you again.
+-Yeah.
+
+433
+00:32:19,476 --> 00:32:20,519
+Taeyeong.
+
+434
+00:32:20,602 --> 00:32:23,605
+Oh! What are you doing here?
+
+435
+00:32:23,689 --> 00:32:25,399
+Mom, I'm here.
+
+436
+00:32:26,984 --> 00:32:28,443
+Oh my, is that my baby?
+
+437
+00:32:28,527 --> 00:32:29,820
+Hey, Taeju.
+
+438
+00:32:30,320 --> 00:32:32,447
+Why didn't you give us a call?
+
+439
+00:32:32,531 --> 00:32:35,283
+I was just passing by,
+and I wanted to see you, Mom.
+
+440
+00:32:36,785 --> 00:32:39,287
+Well, have you had dinner yet?
+
+441
+00:32:39,371 --> 00:32:40,539
+No, not yet.
+
+442
+00:32:40,622 --> 00:32:42,499
+Let me get a bowl of chueotang, Mom.
+
+443
+00:32:42,582 --> 00:32:44,584
+-Wait right here, okay?
+-Okay.
+
+444
+00:32:44,668 --> 00:32:47,379
+You totally caught me off guard.
+
+445
+00:32:56,054 --> 00:32:57,848
+Taeju, take these home.
+
+446
+00:33:00,642 --> 00:33:02,185
+What's all this?
+
+447
+00:33:02,269 --> 00:33:05,230
+Well, I made some spicy anchovies
+and pickled cucumbers.
+
+448
+00:33:05,313 --> 00:33:07,983
+And these are braised lotus roots
+and black beans.
+
+449
+00:33:08,066 --> 00:33:09,860
+They're all Seyun's favorites.
+
+450
+00:33:10,360 --> 00:33:12,029
+Take them home and eat with her, okay?
+
+451
+00:33:12,487 --> 00:33:17,576
+Oh, wow. When did you
+prepare all this, Mom? [laughs]
+
+452
+00:33:18,577 --> 00:33:20,370
+But Mom, this is too much food.
+
+453
+00:33:20,454 --> 00:33:23,623
+I mean, we still have food
+you gave us last time.
+
+454
+00:33:24,082 --> 00:33:27,836
+Oh, no. It's not even that much.
+I just used big containers.
+
+455
+00:33:27,919 --> 00:33:31,840
+Seyun must be so busy these days.
+She hasn't even been able to stop by.
+STYLE
+::cue()
+
+456
+00:33:31,923 --> 00:33:35,135
+Make sure she eats
+home-cooked meals when she's at home.
+
+457
+00:33:37,971 --> 00:33:42,017
+But honestly, Seyun and I
+rarely eat at home, so it's fine.
+
+458
+00:33:42,100 --> 00:33:43,685
+If you don't want it, I'm taking it.
+
+459
+00:33:44,186 --> 00:33:45,562
+What's wrong with you?
+
+460
+00:33:45,645 --> 00:33:48,857
+-Don't take your little brother's stuff.
+-[Taeyeong laughs]
+
+461
+00:33:50,442 --> 00:33:51,735
+[mother] Just take it, all right?
+
+462
+00:33:53,779 --> 00:33:57,949
+Make sure you take good care of Seyun.
+
+463
+00:34:01,495 --> 00:34:04,122
+You need some home-cooked food
+to keep you going.
+
+464
+00:34:05,082 --> 00:34:06,291
+Okay?
+
+465
+00:34:17,385 --> 00:34:18,804
+[sighs]
+
+466
+00:34:21,139 --> 00:34:22,140
+Taeyeong.
+
+467
+00:34:23,350 --> 00:34:25,060
+I'm really getting a divorce.
+
+468
+00:34:25,143 --> 00:34:26,770
+Get it together.
+
+469
+00:34:27,729 --> 00:34:32,192
+Mom may never say it out loud,
+but you're basically her whole life.
+
+470
+00:34:32,275 --> 00:34:37,197
+You used to throw a fit, saying
+you could never live without your wife.
+
+471
+00:34:37,280 --> 00:34:40,242
+And now you can't stand living with her?
+
+472
+00:34:41,326 --> 00:34:45,038
+Look. Sometimes there are ups,
+and sometimes there are downs.
+
+473
+00:34:45,956 --> 00:34:48,333
+Marriage can be more volatile
+than the stock market.
+
+474
+00:34:48,417 --> 00:34:50,127
+That's just how it is.
+
+475
+00:34:50,669 --> 00:34:52,212
+I know. I do.
+
+476
+00:34:52,295 --> 00:34:55,632
+But it's not like I haven't tried
+to make it work, and I don't…
+
+477
+00:34:57,342 --> 00:34:59,302
+I don't know how it came to this.
+
+478
+00:35:00,137 --> 00:35:01,304
+Trying isn't enough.
+
+479
+00:35:01,388 --> 00:35:05,308
+You're sprinting to the left
+when you should be going to the right.
+
+480
+00:35:05,851 --> 00:35:07,853
+You'll just keep drifting away.
+
+481
+00:35:07,936 --> 00:35:09,062
+Exactly.
+
+482
+00:35:10,522 --> 00:35:12,983
+That's exactly what I'm trying to say.
+
+483
+00:35:13,066 --> 00:35:16,361
+Honestly, I have no idea
+what Seyun really wants.
+
+484
+00:35:20,615 --> 00:35:22,284
+I'm done. I'm over it.
+
+485
+00:35:24,744 --> 00:35:27,414
+I'm done trying just to be chewed out.
+
+486
+00:35:28,039 --> 00:35:29,624
+I want to stop trying too.
+
+487
+00:35:31,001 --> 00:35:32,836
+Let me tell you something about marriage.
+
+488
+00:35:33,837 --> 00:35:35,213
+Even if you fight all the time,
+
+489
+00:35:35,297 --> 00:35:38,717
+you must stick together
+to find the right path.
+
+490
+00:35:56,776 --> 00:35:58,320
+MONDAY, FEBRUARY 9
+
+491
+00:36:00,447 --> 00:36:03,074
+[operator] Thank you for calling Olbareun,
+the number one call service.
+
+492
+00:36:03,158 --> 00:36:04,826
+Would you like to request a driver?
+
+493
+00:36:05,327 --> 00:36:09,706
+Yeah, I'm at the Uil-dong Intersection.
+
+494
+00:36:14,294 --> 00:36:15,795
+[knocking on window]
+
+495
+00:36:20,008 --> 00:36:22,010
+[driver] Sir, did you call for a driver?
+
+496
+00:36:23,929 --> 00:36:26,848
+Yeah, I did. Please take the wheel.
+
+497
+00:36:33,396 --> 00:36:34,940
+[car door opens]
+
+498
+00:36:41,947 --> 00:36:43,365
+[stammers]
+
+499
+00:36:44,574 --> 00:36:47,911
+I feel like I made the call a second ago.
+You got here so quickly.
+
+500
+00:36:47,994 --> 00:36:51,414
+Well, I just happened to be in the area,
+so I got here fast.
+
+501
+00:36:53,166 --> 00:36:54,417
+Well, thank you.
+
+502
+00:36:54,501 --> 00:36:58,755
+I guess today's just my lucky day.
+
+503
+00:37:40,088 --> 00:37:41,548
+[front door opens]
+
+504
+00:37:59,983 --> 00:38:01,484
+This isn't your room.
+
+505
+00:38:03,612 --> 00:38:04,613
+Get out.
+
+506
+00:38:06,781 --> 00:38:08,658
+This is my room, so get out.
+STYLE
+::cue()
+
+507
+00:38:15,248 --> 00:38:16,416
+[alarm beeping]
+
+508
+00:38:23,214 --> 00:38:24,424
+[groans]
+
+509
+00:38:26,468 --> 00:38:27,594
+My head.
+
+510
+00:38:33,266 --> 00:38:34,434
+[alarm stops]
+
+511
+00:38:39,356 --> 00:38:40,982
+What's with all these notifications?
+
+512
+00:38:41,066 --> 00:38:42,609
+MESSAGES
+MISSED CALL
+
+513
+00:38:42,692 --> 00:38:45,737
+HI, I'M YOUR DESIGNATED DRIVER
+PLEASE REPLY WHEN YOU SEE THIS!
+
+514
+00:38:46,863 --> 00:38:48,073
+[sighs]
+
+515
+00:38:48,948 --> 00:38:51,826
+[sniffs] What the hell is this?
+
+516
+00:40:01,688 --> 00:40:03,231
+[phone ringing]
+
+517
+00:40:03,898 --> 00:40:05,358
+UNKNOWN NUMBER
+
+518
+00:40:08,528 --> 00:40:10,071
+UNKNOWN NUMBER
+DECLINE
+
+519
+00:40:13,575 --> 00:40:14,909
+UNKNOWN NUMBER
+
+520
+00:40:20,582 --> 00:40:21,583
+Yes, hello?
+
+521
+00:40:23,418 --> 00:40:24,419
+Hello?
+
+522
+00:40:26,004 --> 00:40:27,297
+Hello?
+
+523
+00:40:29,090 --> 00:40:31,092
+-What the hell?
+-Mr. Kang Taeju?
+
+524
+00:40:33,303 --> 00:40:34,804
+Yes, speaking. Who's this?
+
+525
+00:40:35,430 --> 00:40:37,807
+I'm the driver
+who drove you to your house.
+
+526
+00:40:38,600 --> 00:40:39,642
+Oh, yeah. Last night?
+
+527
+00:40:40,185 --> 00:40:41,895
+Well, early this morning, sir.
+
+528
+00:40:41,978 --> 00:40:44,939
+Oh, yes. So what's this about?
+
+529
+00:40:45,023 --> 00:40:48,568
+I just wanted to ask
+when you could pay me.
+
+530
+00:40:48,651 --> 00:40:51,571
+Did I not pay you for the service?
+
+531
+00:40:52,781 --> 00:40:53,782
+Sorry about that.
+
+532
+00:40:53,865 --> 00:40:56,534
+If you could text me
+your bank account number,
+
+533
+00:40:56,618 --> 00:40:59,078
+I'll wire it to you right away.
+
+534
+00:40:59,162 --> 00:41:03,458
+Actually, I'm not
+talking about that money.
+
+535
+00:41:03,541 --> 00:41:04,542
+I beg your pardon?
+
+536
+00:41:04,626 --> 00:41:07,086
+-Your wife.
+-My wife?
+
+537
+00:41:07,837 --> 00:41:09,756
+Remember the job you asked me to do?
+
+538
+00:41:09,839 --> 00:41:11,841
+I asked you to do something?
+
+539
+00:41:12,258 --> 00:41:13,343
+Do you not remember?
+
+540
+00:41:13,968 --> 00:41:16,095
+No, I don't remember
+anything of that sort.
+
+541
+00:41:16,596 --> 00:41:19,349
+Why is this prick playing dumb?
+
+542
+00:41:21,267 --> 00:41:22,602
+What did you just call me?
+
+543
+00:41:23,436 --> 00:41:24,604
+"Prick"?
+
+544
+00:41:24,687 --> 00:41:25,688
+Listen.
+
+545
+00:41:25,772 --> 00:41:27,524
+You better watch your mouth.
+
+546
+00:41:27,607 --> 00:41:29,859
+-I said listen.
+-You listen.
+
+547
+00:41:30,276 --> 00:41:32,529
+If you don't apologize now,
+I'm calling the cops.
+
+548
+00:41:32,612 --> 00:41:34,155
+Mr. Kang Taeju!
+
+549
+00:41:34,739 --> 00:41:37,200
+Don't be like this all of a sudden.
+
+550
+00:41:37,742 --> 00:41:39,410
+You're making me real sad.
+
+551
+00:41:39,494 --> 00:41:44,207
+I thought we were on the same page,
+but if you keep playing dumb--
+
+552
+00:41:44,290 --> 00:41:47,335
+-Okay, I'm hanging up.
+-It's making me so sad.
+
+553
+00:41:47,418 --> 00:41:49,295
+What is this nutjob…
+
+554
+00:41:50,755 --> 00:41:51,881
+[sighs]
+
+555
+00:42:01,432 --> 00:42:03,268
+Hey, Dr. Kang! Hey!
+
+556
+00:42:05,728 --> 00:42:07,230
+What happened to your wife?
+
+557
+00:42:08,064 --> 00:42:09,107
+What do you mean?
+
+558
+00:42:09,190 --> 00:42:10,775
+She didn't show up to golf today.
+
+559
+00:42:12,569 --> 00:42:14,153
+Seyun stood people up?
+
+560
+00:42:14,904 --> 00:42:17,323
+God, do you know
+what a tight spot she put me in?
+
+561
+00:42:18,324 --> 00:42:20,994
+She begged me to set up the round
+with the association president,
+
+562
+00:42:21,077 --> 00:42:22,787
+and she flaked on me without a word.
+
+563
+00:42:23,162 --> 00:42:24,455
+Just unbelievable…
+
+564
+00:42:25,665 --> 00:42:28,543
+[driver] Your wife.
+Remember the job you asked me to do?
+
+565
+00:42:28,626 --> 00:42:30,879
+Why is this prick playing dumb?
+
+566
+00:42:31,504 --> 00:42:34,090
+Chiung. Let's talk later, okay?
+
+567
+00:42:34,173 --> 00:42:35,258
+[Dr. Choi] Okay.
+STYLE
+::cue()
+
+568
+00:42:39,345 --> 00:42:41,389
+[phone ringing]
+
+569
+00:42:43,433 --> 00:42:46,436
+Hey, what's going on?
+Why did you stand up Chiung?
+
+570
+00:42:47,687 --> 00:42:48,980
+[driver] Mr. Kang.
+
+571
+00:42:50,440 --> 00:42:53,318
+How could you hang up on me like that?
+I was talking.
+
+572
+00:42:54,485 --> 00:42:55,612
+Who's this?
+
+573
+00:42:56,404 --> 00:42:58,865
+It's me, the driver from earlier.
+
+574
+00:43:01,534 --> 00:43:02,535
+I see.
+
+575
+00:43:03,494 --> 00:43:06,122
+So why do you have my wife's phone?
+
+576
+00:43:08,499 --> 00:43:10,293
+I can't believe you.
+
+577
+00:43:12,879 --> 00:43:15,006
+What… What the hell do you want?
+
+578
+00:43:16,341 --> 00:43:18,676
+Where's my wife? Put her on the phone.
+
+579
+00:43:18,760 --> 00:43:20,178
+You're making me so sad…
+
+580
+00:43:21,346 --> 00:43:22,639
+I think I'm going to tear up.
+
+581
+00:43:23,139 --> 00:43:25,016
+Put my wife on the phone right now!
+
+582
+00:43:25,099 --> 00:43:26,392
+[call disconnects]
+
+583
+00:43:27,060 --> 00:43:28,478
+[phone buzzes]
+
+584
+00:43:30,438 --> 00:43:32,565
+UNKNOWN NUMBER
+
+585
+00:43:35,777 --> 00:43:36,778
+[phone buzzes]
+
+586
+00:43:36,861 --> 00:43:38,738
+Anyway, that being said…
+
+587
+00:43:42,200 --> 00:43:44,285
+I want you to get rid of my wife.
+
+588
+00:43:44,369 --> 00:43:45,370
+[driver] What did you say?
+
+589
+00:43:45,453 --> 00:43:47,038
+[Taeju] I'll pay you, okay?
+
+590
+00:43:47,121 --> 00:43:49,040
+I'll pay you 300… No.
+
+591
+00:43:49,123 --> 00:43:52,043
+I'll pay you 500 million won, so please.
+
+592
+00:43:52,126 --> 00:43:56,381
+[driver]
+So you want me to get rid of your wife?
+
+593
+00:43:56,464 --> 00:43:57,465
+Yeah.
+
+594
+00:44:01,761 --> 00:44:04,514
+UNKNOWN NUMBER
+
+595
+00:44:04,597 --> 00:44:06,599
+[phone buzzing]
+
+596
+00:44:09,644 --> 00:44:11,688
+[driver]
+Did you see the picture and the video?
+
+597
+00:44:12,313 --> 00:44:14,440
+Yes, I did.
+
+598
+00:44:17,443 --> 00:44:19,779
+But my wife…
+
+599
+00:44:20,488 --> 00:44:21,489
+You didn't…
+
+600
+00:44:23,449 --> 00:44:25,201
+It's not what I think, right?
+
+601
+00:44:25,785 --> 00:44:27,370
+Unfortunately…
+
+602
+00:44:27,453 --> 00:44:28,746
+Your wife is
+
+603
+00:44:29,872 --> 00:44:31,165
+still alive.
+
+604
+00:44:32,166 --> 00:44:33,167
+[sighs]
+
+605
+00:44:33,251 --> 00:44:37,964
+But I'll take care of her
+as soon as you send me the money,
+
+606
+00:44:38,047 --> 00:44:39,173
+so don't worry about it.
+
+607
+00:44:39,257 --> 00:44:41,759
+Hold on a minute, sir. It's just…
+
+608
+00:44:42,802 --> 00:44:45,346
+Why are you doing this to us?
+
+609
+00:44:45,430 --> 00:44:47,849
+I could ask you the same thing!
+
+610
+00:44:47,932 --> 00:44:49,350
+Why are you doing this?
+
+611
+00:44:49,434 --> 00:44:52,228
+You can't put me up to something
+and pretend you don't remember!
+
+612
+00:44:53,688 --> 00:44:55,565
+Look, I never put you up to…
+
+613
+00:44:58,067 --> 00:45:00,945
+I don't know
+what you're talking about, okay?
+
+614
+00:45:01,029 --> 00:45:03,322
+You're only making things
+more difficult, boss.
+
+615
+00:45:03,406 --> 00:45:06,075
+And this video. Is that even me?
+
+616
+00:45:06,159 --> 00:45:07,910
+This has to be fake.
+
+617
+00:45:07,994 --> 00:45:09,328
+Is that what you think?
+
+618
+00:45:17,378 --> 00:45:18,629
+No, I mean…
+
+619
+00:45:18,713 --> 00:45:21,090
+Listen, I may have said
+some things I didn't mean
+
+620
+00:45:21,674 --> 00:45:23,634
+because I was drunk,
+
+621
+00:45:23,718 --> 00:45:27,180
+but you shouldn't have taken it seriously.
+
+622
+00:45:27,263 --> 00:45:28,264
+And?
+
+623
+00:45:29,307 --> 00:45:31,851
+Please let my wife go. I'm begging you.
+
+624
+00:45:31,934 --> 00:45:32,935
+Sir.
+
+625
+00:45:33,019 --> 00:45:36,731
+First, you want me to kill her,
+and now you want me to let her live?
+
+626
+00:45:36,814 --> 00:45:38,316
+Yes, please don't kill her.
+
+627
+00:45:38,399 --> 00:45:42,570
+If you just let her go,
+I won't tell a soul about what happened.
+
+628
+00:45:42,653 --> 00:45:44,572
+Here's the thing, boss.
+
+629
+00:45:44,655 --> 00:45:48,201
+I hate it when people
+make things complicated.
+
+630
+00:45:48,618 --> 00:45:52,371
+People who don't keep their promises?
+I just can't stand them.
+
+631
+00:45:52,455 --> 00:45:56,459
+I'm going to ask you one last time,
+so really think before you answer.
+
+632
+00:45:58,086 --> 00:46:01,672
+Do you want your wife dead or alive?
+
+633
+00:46:01,756 --> 00:46:05,343
+I want her to live. Let her live. Please.
+
+634
+00:46:05,426 --> 00:46:06,427
+All right, then.
+
+635
+00:46:06,511 --> 00:46:09,514
+-I'll let it slide this time…
+-[sighs]
+
+636
+00:46:09,597 --> 00:46:11,307
+…but don't let this happen again.
+
+637
+00:46:11,390 --> 00:46:15,853
+Yes, of course.
+Thank you so much. Thank you.
+
+638
+00:46:15,937 --> 00:46:18,856
+But you know
+there'll be extra charges, right?
+
+639
+00:46:18,940 --> 00:46:20,733
+You changed the options.
+
+640
+00:46:21,609 --> 00:46:22,693
+What options?
+
+641
+00:46:22,777 --> 00:46:27,031
+It's 500 million to kill your wife,
+and 1 billion won to let her live.
+
+642
+00:46:27,740 --> 00:46:29,325
+You have three hours.
+
+643
+00:46:29,408 --> 00:46:30,409
+What?
+
+644
+00:46:30,493 --> 00:46:34,580
+If I don't get my one billion won
+in three hours, consider your wife dead.
+
+645
+00:46:34,664 --> 00:46:38,793
+And if you go to the cops
+or ignore my calls, she's dead.
+
+646
+00:46:38,876 --> 00:46:40,211
+Hold on, three hours is too--
+
+647
+00:46:40,294 --> 00:46:42,630
+Now, you won't be able
+to reach your wife's phone.
+
+648
+00:46:42,713 --> 00:46:47,510
+It's 10:25 a.m. right now,
+and I'll be in touch in three hours.
+
+649
+00:46:47,593 --> 00:46:48,803
+And, boss?
+
+650
+00:46:49,387 --> 00:46:51,097
+Don't disappoint me anymore.
+
+651
+00:46:51,180 --> 00:46:52,431
+Hello?
+
+652
+00:46:52,515 --> 00:46:54,142
+Hello?
+
+653
+00:46:54,225 --> 00:46:55,268
+Hello?
+STYLE
+::cue()
+
+654
+00:47:02,400 --> 00:47:03,568
+WOORI TOGETHER MEDICAL CENTER
+
+655
+00:47:03,651 --> 00:47:05,695
+[Taeju] I want you to get rid of my wife.
+
+656
+00:47:06,737 --> 00:47:08,322
+I'll pay you, okay?
+
+657
+00:47:08,739 --> 00:47:11,325
+I'll pay you 300… No.
+
+658
+00:47:11,409 --> 00:47:13,327
+I'll pay you 500 million won, so please.
+
+659
+00:47:15,079 --> 00:47:19,584
+So you want me to get rid of your wife?
+
+660
+00:47:22,086 --> 00:47:23,129
+Yeah.
+
+661
+00:47:25,798 --> 00:47:28,426
+[operator] Thank you for calling Olbareun,
+the number one call service.
+
+662
+00:47:28,509 --> 00:47:32,138
+[Taeju]
+Yeah, I'm at the Uil-dong Intersection.
+
+663
+00:47:32,221 --> 00:47:33,931
+[knocking on window]
+
+664
+00:47:34,682 --> 00:47:38,227
+Yeah, I did. Please take the wheel.
+
+665
+00:47:42,190 --> 00:47:44,567
+I definitely saw his face.
+
+666
+00:47:46,194 --> 00:47:48,362
+But I don't remember it.
+
+667
+00:47:59,207 --> 00:48:00,458
+[car beeps]
+
+668
+00:48:21,437 --> 00:48:22,521
+CALLING
+
+669
+00:48:22,605 --> 00:48:24,815
+[phone ringing]
+
+670
+00:48:29,070 --> 00:48:31,239
+-[person] Hello?
+-Hello?
+
+671
+00:48:31,322 --> 00:48:37,036
+Is this the driver
+who drove me home last night?
+
+672
+00:48:37,119 --> 00:48:38,246
+Oh, Uil-dong Intersection?
+
+673
+00:48:38,329 --> 00:48:40,081
+Why didn't you answer your phone?
+
+674
+00:48:40,164 --> 00:48:41,582
+Nobody was there when I got there.
+
+675
+00:48:41,666 --> 00:48:43,042
+[disconnects call]
+
+676
+00:48:48,881 --> 00:48:51,509
+[operator] Thank you for calling Olbareun,
+the number one call service.
+
+677
+00:48:51,592 --> 00:48:53,135
+Would you like to request a driver?
+
+678
+00:48:53,219 --> 00:48:57,390
+Hi. I'm looking for the driver
+who drove me home last night.
+
+679
+00:48:57,473 --> 00:49:00,226
+And you called from this number, correct?
+
+680
+00:49:00,309 --> 00:49:02,395
+-Yeah.
+-Just a moment.
+
+681
+00:49:03,521 --> 00:49:06,941
+It seems like this request was canceled
+because the driver couldn't reach you.
+
+682
+00:49:07,024 --> 00:49:10,027
+No. I definitely used
+your service last night.
+
+683
+00:49:10,111 --> 00:49:11,988
+According to our records,
+
+684
+00:49:12,071 --> 00:49:15,157
+your designated driver called you
+three times at 1:47 a.m. this morning
+
+685
+00:49:15,241 --> 00:49:19,287
+but gave up and accepted another customer.
+
+686
+00:49:19,370 --> 00:49:21,789
+What? I didn't pick up?
+
+687
+00:49:22,248 --> 00:49:24,333
+It looks like you called
+for another driver too.
+
+688
+00:49:24,417 --> 00:49:26,252
+Please contact the other service provider.
+
+689
+00:49:26,335 --> 00:49:27,962
+I… Wait.
+
+690
+00:50:21,932 --> 00:50:24,310
+SEONGJIN POLICE STATION
+
+691
+00:50:32,401 --> 00:50:34,195
+[phone buzzing]
+
+692
+00:50:38,491 --> 00:50:40,159
+INCOMING VIDEO CALL
+UNKNOWN NUMBER
+
+693
+00:50:40,242 --> 00:50:41,911
+[Seyun screams]
+STYLE
+::cue()
+
+694
+00:50:43,871 --> 00:50:45,414
+[stammering] Seyun.
+
+695
+00:50:46,374 --> 00:50:51,420
+What are you… What the hell are you doing?
+
+696
+00:50:51,504 --> 00:50:52,630
+Honey.
+
+697
+00:50:53,589 --> 00:50:55,716
+No! Stop it! No!
+
+698
+00:50:56,342 --> 00:50:58,052
+Sir, what are you doing?
+
+699
+00:50:58,135 --> 00:51:00,638
+Please! Please don't do that!
+
+700
+00:51:00,721 --> 00:51:02,973
+Please pull her up! Please, sir!
+
+701
+00:51:03,057 --> 00:51:05,017
+[Seyun screaming]
+
+702
+00:51:05,101 --> 00:51:06,102
+Seyun…
+
+703
+00:51:08,896 --> 00:51:10,231
+Are you out of your mind?
+
+704
+00:51:10,314 --> 00:51:11,732
+What the hell are you doing?
+
+705
+00:51:13,192 --> 00:51:16,946
+[driver] You're the one who broke the deal
+and tried to go to the cops.
+
+706
+00:51:17,029 --> 00:51:18,447
+Did you think I wouldn't know?
+
+707
+00:51:23,744 --> 00:51:25,830
+Why do you keep
+disappointing me like this?
+
+708
+00:51:31,627 --> 00:51:33,254
+I'm sorry, sir.
+
+709
+00:51:34,380 --> 00:51:36,882
+You should be thanking me right now.
+
+710
+00:51:38,008 --> 00:51:42,972
+Your wife could have died,
+and I stopped that.
+
+711
+00:51:43,055 --> 00:51:44,223
+Right.
+
+712
+00:51:44,306 --> 00:51:48,102
+There's only so much
+a person can tolerate.
+
+713
+00:51:48,727 --> 00:51:51,188
+And I've reached my limit.
+
+714
+00:51:55,025 --> 00:51:56,152
+I'm very sorry, sir.
+
+715
+00:51:57,778 --> 00:52:00,739
+It looks like I gave you too much time.
+
+716
+00:52:00,823 --> 00:52:04,743
+Let me fix that so you don't get
+any more stupid ideas.
+
+717
+00:52:04,827 --> 00:52:05,828
+What?
+
+718
+00:52:05,911 --> 00:52:08,914
+You have one hour to get my one billion.
+
+719
+00:52:09,415 --> 00:52:12,293
+Sir, one hour is far too short.
+
+720
+00:52:12,835 --> 00:52:14,211
+I said what I said.
+
+721
+00:52:14,753 --> 00:52:15,754
+CALL ENDED
+
+722
+00:52:15,838 --> 00:52:17,715
+Hello? Hello…
+
+723
+00:52:48,078 --> 00:52:49,413
+CALLING
+FATHER-IN-LAW
+
+724
+00:52:49,497 --> 00:52:51,957
+The number you dialed is not available…
+
+725
+00:52:52,041 --> 00:52:53,209
+HOSPITAL FRONT DESK
+
+726
+00:52:54,543 --> 00:52:56,545
+Woori Together Medical Center.
+How may I help you?
+
+727
+00:52:56,629 --> 00:52:58,047
+Hi, it's Kang Taeju here.
+
+728
+00:52:58,464 --> 00:53:00,466
+Is Dr. Ko at the hospital right now?
+
+729
+00:53:00,549 --> 00:53:04,553
+Dr. Ko is currently in surgery.
+
+730
+00:53:08,432 --> 00:53:10,017
+[dialing]
+
+731
+00:53:10,100 --> 00:53:11,810
+The number you dialed is not available…
+
+732
+00:53:11,894 --> 00:53:12,895
+CALLING
+MOTHER-IN-LAW
+
+733
+00:53:20,402 --> 00:53:22,947
+MODU BANK
+
+734
+00:53:30,079 --> 00:53:32,456
+-Dr. Kang, long time no see.
+-Hi.
+
+735
+00:53:33,332 --> 00:53:34,792
+So, how have you been?
+
+736
+00:53:35,668 --> 00:53:39,421
+Actually, I need
+to take out a loan urgently.
+
+737
+00:53:39,505 --> 00:53:40,506
+Okay.
+
+738
+00:53:40,923 --> 00:53:43,175
+How much are you looking to take out?
+
+739
+00:53:43,551 --> 00:53:46,095
+Well, I'd like to withdraw
+all 80 million from my account,
+
+740
+00:53:46,178 --> 00:53:48,389
+and I need an additional 920 million.
+
+741
+00:53:49,139 --> 00:53:50,349
+Did you say 920 million won?
+
+742
+00:53:50,432 --> 00:53:52,017
+Yeah, and…
+
+743
+00:53:53,227 --> 00:53:55,354
+Could I get it within 50 minutes?
+
+744
+00:53:55,437 --> 00:53:59,108
+I'm sorry, but even for our VIP clients,
+
+745
+00:53:59,191 --> 00:54:02,736
+it'll take at least two weeks
+for the papers to be approved.
+
+746
+00:54:02,820 --> 00:54:07,700
+You probably couldn't even take out
+a private loan that big on the same day.
+STYLE
+::cue()
+
+747
+00:54:25,718 --> 00:54:27,594
+RECENT CALLS
+
+748
+00:54:43,152 --> 00:54:46,322
+STOP BEFORE CROSSING
+
+749
+00:54:46,405 --> 00:54:47,531
+STOP
+
+750
+00:54:47,614 --> 00:54:48,699
+TRAIN APPROACHING
+
+751
+00:54:48,782 --> 00:54:50,326
+TRAIN PASSING
+STOP
+
+752
+00:55:20,481 --> 00:55:23,192
+[phone buzzing]
+
+753
+00:55:23,275 --> 00:55:25,986
+INCOMING VIDEO CALL
+UNKNOWN NUMBER
+
+754
+00:55:34,620 --> 00:55:35,704
+Hello?
+
+755
+00:55:36,413 --> 00:55:37,456
+[driver] Hey, boss.
+
+756
+00:55:37,539 --> 00:55:39,208
+It's almost time.
+
+757
+00:55:43,379 --> 00:55:44,922
+Is my wife okay?
+
+758
+00:55:45,005 --> 00:55:46,840
+She's fine for now.
+
+759
+00:55:46,924 --> 00:55:48,509
+And my one billion won?
+
+760
+00:55:50,010 --> 00:55:52,554
+Yeah. I have it.
+
+761
+00:55:52,638 --> 00:55:54,556
+Let me see it.
+
+762
+00:55:58,018 --> 00:55:59,520
+Each contains 500 million.
+
+763
+00:56:00,938 --> 00:56:02,272
+One billion in total.
+
+764
+00:56:02,356 --> 00:56:05,067
+I wouldn't expect any less
+from a director at a hospital.
+
+765
+00:56:05,150 --> 00:56:10,030
+I mean, honestly, most people could
+never even see a billion won in cash.
+
+766
+00:56:10,114 --> 00:56:11,615
+Where do I take it?
+
+767
+00:56:11,698 --> 00:56:13,784
+I forgot to tell you that.
+
+768
+00:56:14,535 --> 00:56:17,830
+Come to 43-87, Sajiro-gil.
+
+769
+00:56:18,247 --> 00:56:21,667
+Be here within 30 minutes,
+and you have to come alone.
+
+770
+00:56:22,084 --> 00:56:24,586
+You know that's the only way
+to save your wife, right?
+
+771
+00:56:25,087 --> 00:56:26,380
+I'll be waiting.
+
+772
+00:56:33,512 --> 00:56:35,597
+[automated voice] Up ahead, turn right.
+
+773
+00:56:39,184 --> 00:56:41,645
+Entering school zone.
+Please drive carefully.
+
+774
+00:56:41,728 --> 00:56:44,273
+SCHOOL ZONE
+
+775
+00:56:47,734 --> 00:56:49,778
+In 400 meters, keep straight.
+
+776
+00:56:57,035 --> 00:56:59,079
+Turn left.
+
+777
+00:57:06,795 --> 00:57:09,173
+In 300 meters, keep straight.
+STYLE
+::cue()
+
+778
+00:57:13,844 --> 00:57:15,387
+Up ahead, turn right.
+
+779
+00:57:20,142 --> 00:57:23,562
+Take the slight left into the alley.
+Then, turn left.
+
+780
+00:57:25,939 --> 00:57:28,358
+Continue straight to 43, Sajiro-gil.
+
+781
+00:57:29,151 --> 00:57:31,069
+Please drive safely.
+
+782
+00:57:34,865 --> 00:57:36,658
+Up ahead, turn left.
+
+783
+00:57:39,620 --> 00:57:41,705
+[horn honking]
+
+784
+00:57:46,376 --> 00:57:48,837
+[panting]
+
+785
+00:58:01,016 --> 00:58:02,768
+Hey, are you okay?
+
+786
+00:58:04,269 --> 00:58:07,105
+Hey! Can you hear me?
+
+787
+00:58:11,360 --> 00:58:12,528
+Let me call an ambulance.
+
+788
+00:58:13,237 --> 00:58:14,363
+Just hang in there.
+
+789
+00:58:16,281 --> 00:58:17,574
+Hey, my…
+
+790
+00:58:18,075 --> 00:58:20,369
+-Yes?
+-[panting]
+
+791
+00:58:21,203 --> 00:58:22,996
+My one billion won…
+
+792
+00:58:24,665 --> 00:58:25,666
+What was that?
+
+793
+00:58:26,041 --> 00:58:28,168
+[slurring] Did you bring my billion won?
+
+794
+00:58:28,794 --> 00:58:31,838
+What? I can't hear you.
+Can you speak up a little?
+
+795
+00:58:33,298 --> 00:58:35,008
+[clearly]
+I said, did you bring my billion won?
+
+796
+00:58:44,184 --> 00:58:49,106
+THE HUSBAND
+
+797
+00:59:29,229 --> 00:59:30,814
+[detective]
+You know where Ms. Ko is, don't you?
+
+798
+00:59:30,897 --> 00:59:32,482
+[driver] I'm going to your wife now.
+
+799
+00:59:32,566 --> 00:59:35,027
+There's no time to be screwing around!
+
+800
+00:59:35,694 --> 00:59:37,362
+This guy is a psycho!
+
+801
+00:59:37,446 --> 00:59:38,905
+My wife's in danger!
+
+802
+00:59:38,989 --> 00:59:41,658
+Let me out of here! [screams]
+
+803
+00:59:41,742 --> 00:59:43,452
+Who are you? What do you want?
+
+804
+00:59:43,535 --> 00:59:46,079
+[driver] If you disappoint me
+with another dumb stunt,
+
+805
+00:59:46,163 --> 00:59:48,624
+you will pay for it dearly.
+
+806
+00:59:48,707 --> 00:59:51,251
+I can actually get you the money you want.
+I promise. I swear.
+
+807
+00:59:51,335 --> 00:59:53,670
+[person] You can have this
+on top of the original two billion.
+
+808
+00:59:53,754 --> 00:59:55,297
+-[driver] Just because you're rich…
+-Honey!
+
+809
+00:59:55,380 --> 00:59:56,673
+You think you can mock me?
+
+810
+00:59:58,634 --> 01:00:01,136
+What happened to your wife is all on you.
+
+811
+01:00:01,219 --> 01:00:03,221
+Translated by Hyun Sik Yoon
+
